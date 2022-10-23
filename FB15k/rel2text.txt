@@ -1,0 +1,1345 @@
+/geography/lake/basin_countries	geography lake basin countries
+/film/film_festival_event/festival	film film festival event festival
+/base/events/performer/performances./base/events/performance/performer	base events performer performances. base events performance performer
+/base/biblioness/bibs_location/city	base biblioness bibs location city
+/location/location/street_address./location/mailing_address/citytown	location location street address. location mailing address citytown
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/draft	sports professional sports team draft picks. sports sports league draft pick draft
+/people/profession/specialization_of	people profession specialization of
+/base/disaster2/tactic/attacks_of_this_form./base/disaster2/attack_process/attack_event	base disaster2 tactic attacks of this form. base disaster2 attack process attack event
+/film/film_set_designer/film_sets_designed	film film set designer film sets designed
+/base/yalebase/secret_society/notable_members./base/yalebase/secret_society_membership/member	base yalebase secret society notable members. base yalebase secret society membership member
+/location/statistical_region/rent50_2./measurement_unit/dated_money_value/currency	location statistical region rent50 2. measurement unit dated money value currency
+/organization/organization/spin_offs./organization/organization_spin_off/child_company	organization organization spin offs. organization organization spin off child company
+/tv/tv_program/regular_personal_appearances./tv/tv_regular_personal_appearance/person	tv tv program regular personal appearances. tv tv regular personal appearance person
+/sports/sports_team/roster./basketball/basketball_roster_position/player	sports sports team roster. basketball basketball roster position player
+/base/schemastaging/tv_actor_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/program	base schemastaging tv actor extra regular dubbing performances. base schemastaging tv star dubbing performance program
+/time/recurring_event/instances	time recurring event instances
+/government/political_appointer/appointees./government/government_position_held/jurisdiction_of_office	government political appointer appointees. government government position held jurisdiction of office
+/government/government_office_or_title/office_holders./government/government_position_held/jurisdiction_of_office	government government office or title office holders. government government position held jurisdiction of office
+/film/producer/film	film producer film
+/people/ethnicity/geographic_distribution	people ethnicity geographic distribution
+/film/film_job/films_with_this_crew_job./film/film_crew_gig/crewmember	film film job films with this crew job. film film crew gig crewmember
+/sports/pro_athlete/teams./sports/sports_team_roster/team	sports pro athlete teams. sports sports team roster team
+/computer/programming_language/language_paradigms	computer programming language language paradigms
+/education/fraternity_sorority/colors	education fraternity sorority colors
+/soccer/football_team/manager./soccer/football_team_management_tenure/manager	soccer football team manager. soccer football team management tenure manager
+/comic_books/comic_book_series/featured_characters	comic books comic book series featured characters
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/actor	tv tv program regular cast. tv regular tv appearance actor
+/sports/sports_team/roster./baseball/baseball_roster_position/position	sports sports team roster. baseball baseball roster position position
+/architecture/structure/address./location/mailing_address/citytown	architecture structure address. location mailing address citytown
+/organization/organization/legal_structure	organization organization legal structure
+/sports/sports_position/players./sports/sports_team_roster/position	sports sports position players. sports sports team roster position
+/base/fight/crime_type/victims_of_this_crime_type	base fight crime type victims of this crime type
+/base/popstra/celebrity/dated./base/popstra/dated/participant	base popstra celebrity dated. base popstra dated participant
+/music/group_member/membership./music/group_membership/group	music group member membership. music group membership group
+/american_football/football_position/players	american football football position players
+/sports/sports_championship_event/champion	sports sports championship event champion
+/religion/religious_organization/associated_with	religion religious organization associated with
+/award/award_discipline/awards_in_this_discipline	award award discipline awards in this discipline
+/award/award_category/winners./award/award_honor/honored_for	award award category winners. award award honor honored for
+/people/family/country	people family country
+/tv/tv_actor/guest_roles./tv/tv_guest_role/character	tv tv actor guest roles. tv tv guest role character
+/tv/tv_program/languages	tv tv program languages
+/film/film/starring./film/performance/actor	film film starring. film performance actor
+/base/popstra/celebrity/vacations_in./base/popstra/vacation_choice/location	base popstra celebrity vacations in. base popstra vacation choice location
+/government/government_office_or_title/office_holders./government/government_position_held/appointed_by	government government office or title office holders. government government position held appointed by
+/location/statistical_region/rent50_3./measurement_unit/dated_money_value/currency	location statistical region rent50 3. measurement unit dated money value currency
+/base/locations/continents/countries_within	base locations continents countries within
+/basketball/basketball_position/players	basketball basketball position players
+/location/statistical_region/gdp_real./measurement_unit/adjusted_money_value/adjustment_currency	location statistical region gdp real. measurement unit adjusted money value adjustment currency
+/government/governmental_body/members./government/government_position_held/appointed_by	government governmental body members. government government position held appointed by
+/base/schemastaging/fish/found_in	base schemastaging fish found in
+/sports/sports_team/colors	sports sports team colors
+/architecture/architectural_style/examples	architecture architectural style examples
+/award/award_winner/awards_won./award/award_honor/honored_for	award award winner awards won. award award honor honored for
+/tv/tv_character/appeared_in_tv_episodes./tv/tv_guest_role/actor	tv tv character appeared in tv episodes. tv tv guest role actor
+/base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/convicted_person	base fight crime type people convicted of this crime. base crime criminal conviction convicted person
+/aviation/aircraft_model/aircraft_type	aviation aircraft model aircraft type
+/government/legislative_session/members./government/government_position_held/legislative_sessions	government legislative session members. government government position held legislative sessions
+/base/aareas/schema/administrative_area/administrative_parent	base aareas schema administrative area administrative parent
+/business/employer/employees./business/employment_tenure/person	business employer employees. business employment tenure person
+/education/educational_institution/parent_institution	education educational institution parent institution
+/film/film_location/featured_in_films	film film location featured in films
+/computer/operating_system/parent_os	computer operating system parent os
+/base/activism/organization/area_of_activism	base activism organization area of activism
+/organization/role/governors./organization/organization_board_membership/member	organization role governors. organization organization board membership member
+/military/military_commander/military_commands./military/military_command/military_combatant	military military commander military commands. military military command military combatant
+/computer/programming_language/language_designers	computer programming language language designers
+/sports/sports_team/roster./sports/sports_team_roster/position	sports sports team roster. sports sports team roster position
+/sports/sports_team/roster./american_football/football_historical_roster_position/position_s	sports sports team roster. american football football historical roster position position s
+/music/instrument/instrumentalists	music instrument instrumentalists
+/protected_sites/listed_site/designation_as_natural_or_cultural_site./protected_sites/natural_or_cultural_site_listing/designation	protected sites listed site designation as natural or cultural site. protected sites natural or cultural site listing designation
+/travel/transport_operator/travel_destinations_served./travel/transportation/mode_of_transportation	travel transport operator travel destinations served. travel transportation mode of transportation
+/tv/tv_series_season/regular_cast./tv/regular_tv_appearance/seasons	tv tv series season regular cast. tv regular tv appearance seasons
+/film/film/subjects	film film subjects
+/film/personal_film_appearance_type/film_appearances./film/personal_film_appearance/film	film personal film appearance type film appearances. film personal film appearance film
+/government/political_ideology/political_parties	government political ideology political parties
+/people/appointee/position./people/appointment/appointed_by	people appointee position. people appointment appointed by
+/user/alexbl/honorary_title/titled_person/honorary_title./user/alexbl/honorary_title/honorary_title_holding/honorary_title	user alexbl honorary title titled person honorary title. user alexbl honorary title honorary title holding honorary title
+/government/governmental_jurisdiction/governing_officials./government/government_position_held/governmental_body	government governmental jurisdiction governing officials. government government position held governmental body
+/food/ingredient/compatible_with_dietary_restrictions	food ingredient compatible with dietary restrictions
+/cvg/game_series/games_in_series	cvg game series games in series
+/american_football/football_player/former_teams./sports/sports_team_roster/team	american football football player former teams. sports sports team roster team
+/medicine/medical_treatment/side_effects	medicine medical treatment side effects
+/base/wrestling/professional_wrestler/member_of_team	base wrestling professional wrestler member of team
+/base/popstra/restaurant/restaurant_choice./base/popstra/restaurant_choice/diner	base popstra restaurant restaurant choice. base popstra restaurant choice diner
+/user/coco/science/concepts_theories/parent_concept	user coco science concepts theories parent concept
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_open_times/time_zone	base schemastaging organization extra phone number. base schemastaging phone open times time zone
+/education/educational_institution/students_graduates./education/education/specialization	education educational institution students graduates. education education specialization
+/soccer/football_player/goals_scored./soccer/football_goal/point_awarded_to	soccer football player goals scored. soccer football goal point awarded to
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_location	base schemastaging organization extra phone number. base schemastaging phone sandbox service location
+/biology/animal_breed/breed_of	biology animal breed breed of
+/base/onephylogeny/type_of_thing/includes	base onephylogeny type of thing includes
+/people/family/members	people family members
+/olympics/olympic_athlete/medals_won./olympics/olympic_medal_honor/country	olympics olympic athlete medals won. olympics olympic medal honor country
+/award/award/category	award award category
+/education/school_category/schools_of_this_kind	education school category schools of this kind
+/time/time_zone/locations_in_this_time_zone	time time zone locations in this time zone
+/location/location/people_born_here	location location people born here
+/ice_hockey/hockey_player/former_team_s./sports/sports_team_roster/team	ice hockey hockey player former team s. sports sports team roster team
+/people/marriage_union_type/unions_of_this_type./people/marriage/location_of_ceremony	people marriage union type unions of this type. people marriage location of ceremony
+/fictional_universe/character_species/characters_of_this_species	fictional universe character species characters of this species
+/computer/computer/compatible_oses./computer/os_compatibility/operating_system	computer computer compatible oses. computer os compatibility operating system
+/people/marriage_union_type/unions_of_this_type./people/marriage/spouse	people marriage union type unions of this type. people marriage spouse
+/tv/tv_program/tv_producer./tv/tv_producer_term/producer_type	tv tv program tv producer. tv tv producer term producer type
+/education/university/domestic_tuition./measurement_unit/dated_money_value/currency	education university domestic tuition. measurement unit dated money value currency
+/user/robert/us_congress/congressional_district/state	user robert us congress congressional district state
+/education/educational_degree/people_with_this_degree./education/education/major_field_of_study	education educational degree people with this degree. education education major field of study
+/business/company_type/companies_of_this_type	business company type companies of this type
+/tv/tv_location/tv_shows_filmed_here	tv tv location tv shows filmed here
+/metropolitan_transit/transit_line/service_type	metropolitan transit transit line service type
+/geography/island_group/islands_in_group	geography island group islands in group
+/location/us_county/hud_county_place	location us county hud county place
+/organization/organization/headquarters./location/mailing_address/country	organization organization headquarters. location mailing address country
+/film/film/film_format	film film film format
+/sports/drafted_athlete/drafted./sports/sports_league_draft_pick/draft	sports drafted athlete drafted. sports sports league draft pick draft
+/military/military_person/service./military/military_service/military_force	military military person service. military military service military force
+/military/military_person/service./military/military_service/rank	military military person service. military military service rank
+/fictional_universe/fictional_character_creator/fictional_characters_created	fictional universe fictional character creator fictional characters created
+/base/saturdaynightlive/snl_cast_member/seasons./base/saturdaynightlive/snl_season_tenure/cast_members	base saturdaynightlive snl cast member seasons. base saturdaynightlive snl season tenure cast members
+/location/statistical_region/places_exported_to./location/imports_and_exports/exported_to	location statistical region places exported to. location imports and exports exported to
+/music/artist/origin	music artist origin
+/royalty/royal_line/monarchs_from_this_line	royalty royal line monarchs from this line
+/sports/sports_team/roster./basketball/basketball_historical_roster_position/player	sports sports team roster. basketball basketball historical roster position player
+/broadcast/radio_format/stations	broadcast radio format stations
+/user/szaijan/fantasy_football/player/nfl_team	user szaijan fantasy football player nfl team
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/school	sports professional sports team draft picks. sports sports league draft pick school
+/sports/pro_athlete/teams./american_football/football_roster_position/team	sports pro athlete teams. american football football roster position team
+/government/governmental_body/offices_positions	government governmental body offices positions
+/tv/tv_subject/tv_programs	tv tv subject tv programs
+/architecture/structure/address./location/mailing_address/state_province_region	architecture structure address. location mailing address state province region
+/astronomy/celestial_object/category	astronomy celestial object category
+/government/government_agency/jurisdiction	government government agency jurisdiction
+/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	base schemastaging tv program extra regular dubbing performances. base schemastaging tv star dubbing performance actor
+/business/sponsor/sponsorship./business/sponsorship/sponsored_recipient	business sponsor sponsorship. business sponsorship sponsored recipient
+/user/jg/default_domain/olympic_games/sports	user jg default domain olympic games sports
+/sports/sports_award_winner/awards./sports/sports_award/award	sports sports award winner awards. sports sports award award
+/sports/sports_team/season_record./sports/sports_team_season_record/season	sports sports team season record. sports sports team season record season
+/government/legislative_session/members./government/government_position_held/governmental_body	government legislative session members. government government position held governmental body
+/fictional_universe/fictional_character/parents	fictional universe fictional character parents
+/base/popstra/celebrity/bought./base/popstra/product_choice/product	base popstra celebrity bought. base popstra product choice product
+/government/governmental_body/members./government/government_position_held/basic_title	government governmental body members. government government position held basic title
+/people/person/education./education/education/degree	people person education. education education degree
+/religion/religion/organizations	religion religion organizations
+/law/invention/inventor	law invention inventor
+/film/film/dubbing_performances./film/dubbing_performance/language	film film dubbing performances. film dubbing performance language
+/government/legislative_session/legislature	government legislative session legislature
+/travel/transport_operator/travel_destinations_served./travel/transportation/travel_destination	travel transport operator travel destinations served. travel transportation travel destination
+/base/schemastaging/tv_character_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/language	base schemastaging tv character extra regular dubbing performances. base schemastaging tv star dubbing performance language
+/base/endorsements/endorsing_newspaper/endorsements./base/endorsements/newspaper_endorsement/endorsee	base endorsements endorsing newspaper endorsements. base endorsements newspaper endorsement endorsee
+/film/film_character/portrayed_in_films_dubbed./film/dubbing_performance/actor	film film character portrayed in films dubbed. film dubbing performance actor
+/american_football/football_team/current_roster./american_football/football_roster_position/player	american football football team current roster. american football football roster position player
+/people/person/children	people person children
+/sports/pro_athlete/teams./basketball/basketball_roster_position/team	sports pro athlete teams. basketball basketball roster position team
+/cvg/computer_videogame/subjects	cvg computer videogame subjects
+/people/person/profession	people person profession
+/government/legislative_session/members./government/government_position_held/district_represented	government legislative session members. government government position held district represented
+/book/periodical/subjects	book periodical subjects
+/location/statistical_region/rent50_0./measurement_unit/dated_money_value/currency	location statistical region rent50 0. measurement unit dated money value currency
+/travel/travel_destination/local_transportation	travel travel destination local transportation
+/base/popstra/organization/supporter./base/popstra/support/supporter	base popstra organization supporter. base popstra support supporter
+/base/localfood/produce/availability./base/localfood/produce_availability/seasonal_months	base localfood produce availability. base localfood produce availability seasonal months
+/computer/software_genre/software_in_genre	computer software genre software in genre
+/education/academic/advisors	education academic advisors
+/award/hall_of_fame_discipline/halls_of_fame	award hall of fame discipline halls of fame
+/business/business_operation/net_profit./measurement_unit/dated_money_value/currency	business business operation net profit. measurement unit dated money value currency
+/basketball/basketball_position/player_roster_position./sports/sports_team_roster/player	basketball basketball position player roster position. sports sports team roster player
+/exhibitions/exhibition_venue/exhibitions_at_this_venue./exhibitions/exhibition_run/sponsor	exhibitions exhibition venue exhibitions at this venue. exhibitions exhibition run sponsor
+/fictional_universe/fictional_character/based_on	fictional universe fictional character based on
+/sports/sports_league_season/awards./sports/sports_award/award_winner	sports sports league season awards. sports sports award award winner
+/tv/tv_writer/episodes_written	tv tv writer episodes written
+/location/administrative_division/second_level_division_of	location administrative division second level division of
+/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/produce	base localfood seasonal month produce available. base localfood produce availability produce
+/education/school_district/locations_served	education school district locations served
+/tv/tv_producer_type/tv_producers_of_this_type./tv/tv_producer_term/program	tv tv producer type tv producers of this type. tv tv producer term program
+/film/film_production_designer/films_production_designed	film film production designer films production designed
+/government/political_appointer/appointees./government/government_position_held/governmental_body	government political appointer appointees. government government position held governmental body
+/location/country/official_language	location country official language
+/film/actor/dubbing_performances./film/dubbing_performance/film	film actor dubbing performances. film dubbing performance film
+/tv/tv_program/genre	tv tv program genre
+/base/schemastaging/tv_actor_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/character	base schemastaging tv actor extra regular dubbing performances. base schemastaging tv star dubbing performance character
+/basketball/basketball_position/player_roster_position./basketball/basketball_roster_position/team	basketball basketball position player roster position. basketball basketball roster position team
+/book/periodical_subject/periodicals	book periodical subject periodicals
+/music/conducted_ensemble/conductors./music/conducting_tenure/conductor	music conducted ensemble conductors. music conducting tenure conductor
+/media_common/literary_genre/books_in_this_genre	media common literary genre books in this genre
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/product_or_service	base schemastaging organization extra phone number. base schemastaging phone sandbox product or service
+/people/ethnicity/includes_groups	people ethnicity includes groups
+/sports/sports_team_owner/teams_owned	sports sports team owner teams owned
+/film/film/story_by	film film story by
+/aviation/airport/hub_for	aviation airport hub for
+/venture_capital/venture_funded_company/venture_investors./venture_capital/venture_investment/investor	venture capital venture funded company venture investors. venture capital venture investment investor
+/base/popstra/celebrity/endorsements./base/popstra/paid_support/company	base popstra celebrity endorsements. base popstra paid support company
+/medicine/risk_factor/diseases	medicine risk factor diseases
+/ice_hockey/hockey_team/historical_roster./sports/sports_team_roster/player	ice hockey hockey team historical roster. sports sports team roster player
+/film/film_story_contributor/film_story_credits	film film story contributor film story credits
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/person	tv non character role tv regular personal appearances. tv tv regular personal appearance person
+/user/tsegaran/random/subject_taxonomy/entry./user/tsegaran/random/taxonomy_entry/subject	user tsegaran random subject taxonomy entry. user tsegaran random taxonomy entry subject
+/music/artist/genre	music artist genre
+/location/administrative_division/country	location administrative division country
+/base/locations/countries/continent	base locations countries continent
+/base/thoroughbredracing/thoroughbred_racehorse_color/horses_of_this_color	base thoroughbredracing thoroughbred racehorse color horses of this color
+/computer/software/developer	computer software developer
+/tv/tv_program/tv_producer./tv/tv_producer_term/producer	tv tv program tv producer. tv tv producer term producer
+/education/field_of_study/students_majoring./education/education/specialization	education field of study students majoring. education education specialization
+/travel/travel_destination/how_to_get_here./travel/transportation/mode_of_transportation	travel travel destination how to get here. travel transportation mode of transportation
+/film/film_crewmember/films_crewed./film/film_crew_gig/film_crew_role	film film crewmember films crewed. film film crew gig film crew role
+/base/popstra/celebrity/religion./base/popstra/religion_choice/religion	base popstra celebrity religion. base popstra religion choice religion
+/location/location/adjoin_s./location/adjoining_relationship/adjoins	location location adjoin s. location adjoining relationship adjoins
+/base/popstra/celebrity/shops_at./base/popstra/shopping_choice/company	base popstra celebrity shops at. base popstra shopping choice company
+/computer/programming_language/parent_language	computer programming language parent language
+/base/fight/crime_type/people_convicted_of_this_crime./base/crime/criminal_conviction/guilty_of	base fight crime type people convicted of this crime. base crime criminal conviction guilty of
+/sports/sports_league_draft/picks./sports/sports_league_draft_pick/team	sports sports league draft picks. sports sports league draft pick team
+/games/game_genre/boardgames	games game genre boardgames
+/sports/sports_league_draft/picks./sports/sports_league_draft_pick/player	sports sports league draft picks. sports sports league draft pick player
+/fictional_universe/person_in_fiction/representations_in_fiction	fictional universe person in fiction representations in fiction
+/tv/special_tv_performance_type/starring_performances./tv/regular_tv_appearance/character	tv special tv performance type starring performances. tv regular tv appearance character
+/geography/geographical_feature_category/features	geography geographical feature category features
+/base/patronage/client/related_patron./base/patronage/patron_client_relationship/patron	base patronage client related patron. base patronage patron client relationship patron
+/american_football/football_team/historical_roster./american_football/football_historical_roster_position/player	american football football team historical roster. american football football historical roster position player
+/people/person/place_of_birth	people person place of birth
+/royalty/order_of_chivalry/recipients./royalty/chivalric_order_membership/recipient	royalty order of chivalry recipients. royalty chivalric order membership recipient
+/people/person/spouse_s./people/marriage/type_of_union	people person spouse s. people marriage type of union
+/food/ingredient/dishes	food ingredient dishes
+/sports/pro_athlete/sports_played_professionally./sports/pro_sports_played/sport	sports pro athlete sports played professionally. sports pro sports played sport
+/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/position	base x2010fifaworldcupsouthafrica world cup squad current world cup squad. base x2010fifaworldcupsouthafrica current world cup squad position
+/broadcast/content/producer	broadcast content producer
+/tv/tv_series_season/regular_cast./tv/regular_tv_appearance/actor	tv tv series season regular cast. tv regular tv appearance actor
+/book/periodical_format/periodicals_in_this_format./book/periodical_format_period/periodical	book periodical format periodicals in this format. book periodical format period periodical
+/award/award_winner/awards_won./award/award_honor/award_winner	award award winner awards won. award award honor award winner
+/soccer/football_team/current_roster./soccer/football_roster_position/player	soccer football team current roster. soccer football roster position player
+/common/resource/annotations./common/webpage/topic	common resource annotations. common webpage topic
+/base/localfood/produce/availability./base/localfood/produce_availability/location	base localfood produce availability. base localfood produce availability location
+/geography/island/body_of_water	geography island body of water
+/travel/travel_destination/how_to_get_here./travel/transportation/transport_terminus	travel travel destination how to get here. travel transportation transport terminus
+/military/armed_force/personnel./military/military_service/rank	military armed force personnel. military military service rank
+/government/politician/government_positions_held./government/government_position_held/jurisdiction_of_office	government politician government positions held. government government position held jurisdiction of office
+/aviation/airline/airports_served./aviation/airline_airport_presence/cities_served	aviation airline airports served. aviation airline airport presence cities served
+/user/alexander/philosophy/subject/philosophers	user alexander philosophy subject philosophers
+/business/business_operation/industry	business business operation industry
+/media_common/dedicated_work/dedication./media_common/dedication/dedicated_by	media common dedicated work dedication. media common dedication dedicated by
+/people/ethnicity/languages_spoken	people ethnicity languages spoken
+/people/person/nationality	people person nationality
+/government/political_party/ideology	government political party ideology
+/people/person/languages	people person languages
+/medicine/icd_9_cm_classification/parent_classification	medicine icd 9 cm classification parent classification
+/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/athlete	olympics olympic participating country athletes. olympics olympic athlete affiliation athlete
+/base/schemastaging/tv_character_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/program	base schemastaging tv character extra regular dubbing performances. base schemastaging tv star dubbing performance program
+/film/film/runtime./film/film_cut/film_release_region	film film runtime. film film cut film release region
+/location/location/nearby_airports	location location nearby airports
+/language/human_language/countries_spoken_in	language human language countries spoken in
+/user/alexander/philosophy/philosopher/interests	user alexander philosophy philosopher interests
+/religion/religion/deities	religion religion deities
+/aviation/airliner_accident/flight_destination	aviation airliner accident flight destination
+/user/robert/military/military_person/participated_in_conflicts	user robert military military person participated in conflicts
+/american_football/football_coach_position/coaches_holding_this_position./american_football/football_historical_coach_position/coach	american football football coach position coaches holding this position. american football football historical coach position coach
+/film/film_character/portrayed_in_films_dubbed./film/dubbing_performance/language	film film character portrayed in films dubbed. film dubbing performance language
+/american_football/football_player/receiving./american_football/player_receiving_statistics/team	american football football player receiving. american football player receiving statistics team
+/computer/software/license	computer software license
+/tv/tv_series_season/regular_cast./tv/regular_tv_appearance/series	tv tv series season regular cast. tv regular tv appearance series
+/government/governmental_body/members./government/government_position_held/legislative_sessions	government governmental body members. government government position held legislative sessions
+/film/film_crewmember/films_crewed./film/film_crew_gig/film	film film crewmember films crewed. film film crew gig film
+/base/infrastructure/power_station/fuel_type	base infrastructure power station fuel type
+/fictional_universe/fictional_character/occupation	fictional universe fictional character occupation
+/common/resource/annotations./common/webpage/category	common resource annotations. common webpage category
+/government/government_office_category/officeholders./government/government_position_held/jurisdiction_of_office	government government office category officeholders. government government position held jurisdiction of office
+/olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/olympics	olympics olympic athlete country. olympics olympic athlete affiliation olympics
+/award/award_category/nominees./award/award_nomination/nominated_for	award award category nominees. award award nomination nominated for
+/government/governmental_body/members./government/government_position_held/jurisdiction_of_office	government governmental body members. government government position held jurisdiction of office
+/film/film_genre/films_in_this_genre	film film genre films in this genre
+/medicine/drug_ingredient/active_moiety_of_drug	medicine drug ingredient active moiety of drug
+/internet/website_category/sites	internet website category sites
+/medicine/medical_specialty/diseases_treated	medicine medical specialty diseases treated
+/computer/programming_language/dialects	computer programming language dialects
+/film/film_distributor/films_distributed./film/film_film_distributor_relationship/film	film film distributor films distributed. film film film distributor relationship film
+/base/popstra/product/sold_to./base/popstra/product_choice/consumer	base popstra product sold to. base popstra product choice consumer
+/biology/organism/sex	biology organism sex
+/base/petbreeds/dog_breed/group	base petbreeds dog breed group
+/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/player	ice hockey hockey team current roster. sports sports team roster player
+/religion/religious_organization/leaders./religion/religious_organization_leadership/leader	religion religious organization leaders. religion religious organization leadership leader
+/language/human_language/main_country	language human language main country
+/olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/country	olympics olympic medal medal winners. olympics olympic medal honor country
+/government/governmental_jurisdiction/governing_officials./government/government_position_held/office_position_or_title	government governmental jurisdiction governing officials. government government position held office position or title
+/military/military_combatant/military_conflicts./military/military_combatant_group/combatants	military military combatant military conflicts. military military combatant group combatants
+/comic_books/comic_book_character/primary_universe	comic books comic book character primary universe
+/media_common/dedicated_work/dedication./media_common/dedication/dedicated_to	media common dedicated work dedication. media common dedication dedicated to
+/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/source	base schemastaging person extra net worth. measurement unit dated money value source
+/olympics/olympic_athlete/medals_won./olympics/olympic_medal_honor/olympics	olympics olympic athlete medals won. olympics olympic medal honor olympics
+/film/producer/films_executive_produced	film producer films executive produced
+/music/artist/label	music artist label
+/tv/tv_program_creator/programs_created	tv tv program creator programs created
+/geography/river/basin_countries	geography river basin countries
+/government/political_district/representatives./government/government_position_held/jurisdiction_of_office	government political district representatives. government government position held jurisdiction of office
+/tv/tv_genre/programs	tv tv genre programs
+/government/government_office_or_title/governmental_body_if_any	government government office or title governmental body if any
+/olympics/olympic_games/sports	olympics olympic games sports
+/people/person/employment_history./business/employment_tenure/company	people person employment history. business employment tenure company
+/user/mt/default_domain/metabolite/associated_disorder	user mt default domain metabolite associated disorder
+/finance/currency/countries_formerly_used	finance currency countries formerly used
+/book/magazine_genre/magazines_in_this_genre	book magazine genre magazines in this genre
+/base/fight/sentence/convictions./base/crime/criminal_conviction/convicted_person	base fight sentence convictions. base crime criminal conviction convicted person
+/medicine/disease/parent_disease	medicine disease parent disease
+/user/alexander/philosophy/philosopher/era	user alexander philosophy philosopher era
+/sports/sports_team/roster./sports/sports_team_roster/player	sports sports team roster. sports sports team roster player
+/protected_sites/listed_site/designation_as_natural_or_cultural_site./protected_sites/natural_or_cultural_site_listing/category_or_criteria	protected sites listed site designation as natural or cultural site. protected sites natural or cultural site listing category or criteria
+/base/onephylogeny/type_of_thing/things_of_this_type	base onephylogeny type of thing things of this type
+/base/contractbridge/bridge_player/first_place_finish./base/contractbridge/bridge_tournament_standings/first_place	base contractbridge bridge player first place finish. base contractbridge bridge tournament standings first place
+/base/culturalevent/event/entity_involved	base culturalevent event entity involved
+/medicine/drug/active_moieties	medicine drug active moieties
+/business/business_operation/retained_earnings./measurement_unit/dated_money_value/currency	business business operation retained earnings. measurement unit dated money value currency
+/protected_sites/site_listing_category/listed_sites./protected_sites/natural_or_cultural_site_listing/listed_site	protected sites site listing category listed sites. protected sites natural or cultural site listing listed site
+/media_common/adapted_work/adaptations	media common adapted work adaptations
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/olympics	olympics olympic participating country medals won. olympics olympic medal honor olympics
+/base/events/festival_series/type_of_festival	base events festival series type of festival
+/user/tsegaran/computer/algorithm_family/algorithm	user tsegaran computer algorithm family algorithm
+/tv/special_tv_performance_type/starring_performances./tv/regular_tv_appearance/series	tv special tv performance type starring performances. tv regular tv appearance series
+/baseball/baseball_player/current_team./sports/sports_team_roster/position	baseball baseball player current team. sports sports team roster position
+/book/periodical_publisher/periodicals_published./book/periodical_publisher_period/periodical	book periodical publisher periodicals published. book periodical publisher period periodical
+/fictional_universe/fictional_character/rank	fictional universe fictional character rank
+/cvg/computer_videogame/developer	cvg computer videogame developer
+/interests/collection_category/sub_categories	interests collection category sub categories
+/ice_hockey/hockey_player/current_team./sports/sports_team_roster/position	ice hockey hockey player current team. sports sports team roster position
+/fictional_universe/fictional_character/appears_in_these_fictional_universes	fictional universe fictional character appears in these fictional universes
+/film/film_series/films_in_series	film film series films in series
+/award/award_winning_work/awards_won./award/award_honor/ceremony	award award winning work awards won. award award honor ceremony
+/architecture/museum/address./location/mailing_address/citytown	architecture museum address. location mailing address citytown
+/film/special_film_performance_type/film_performance_type./film/performance/actor	film special film performance type film performance type. film performance actor
+/dining/cuisine/ingredients	dining cuisine ingredients
+/government/political_appointer/appointees./government/government_position_held/office_position_or_title	government political appointer appointees. government government position held office position or title
+/aviation/airline_alliance/member_airlines	aviation airline alliance member airlines
+/base/contractbridge/bridge_player/second_place_finish./base/contractbridge/bridge_tournament_standings/second_place	base contractbridge bridge player second place finish. base contractbridge bridge tournament standings second place
+/base/popstra/business_location/customer./base/popstra/hangout/customer	base popstra business location customer. base popstra hangout customer
+/military/military_combatant/military_commanders./military/military_command/military_commander	military military combatant military commanders. military military command military commander
+/travel/transport_terminus/travel_destinations_served./travel/transportation/transport_terminus	travel transport terminus travel destinations served. travel transportation transport terminus
+/religion/religious_practice/practice_of	religion religious practice practice of
+/people/cause_of_death/includes_causes_of_death	people cause of death includes causes of death
+/base/ecology/ecosystem/ecosystem_members	base ecology ecosystem ecosystem members
+/location/statistical_region/religions./location/religion_percentage/religion	location statistical region religions. location religion percentage religion
+/cvg/computer_videogame/publisher	cvg computer videogame publisher
+/basketball/basketball_team/roster./sports/sports_team_roster/player	basketball basketball team roster. sports sports team roster player
+/biology/organism_classification/higher_classification	biology organism classification higher classification
+/sports/sports_team/arena_stadium	sports sports team arena stadium
+/protected_sites/protected_site/iucn_category	protected sites protected site iucn category
+/medicine/icd_9_cm_classification/includes_classifications	medicine icd 9 cm classification includes classifications
+/government/politician/government_positions_held./government/government_position_held/basic_title	government politician government positions held. government government position held basic title
+/base/onephylogeny/type_of_thing/included_in	base onephylogeny type of thing included in
+/olympics/olympic_sport/olympic_games_contested	olympics olympic sport olympic games contested
+/user/robert/us_congress/us_representative/state	user robert us congress us representative state
+/sports/sports_official/sport	sports sports official sport
+/book/newspaper/circulation_areas	book newspaper circulation areas
+/tv/special_tv_performance_type/starring_performances./tv/regular_tv_appearance/actor	tv special tv performance type starring performances. tv regular tv appearance actor
+/tv/tv_program/regular_personal_appearances./tv/tv_regular_personal_appearance/appearance_type	tv tv program regular personal appearances. tv tv regular personal appearance appearance type
+/travel/transport_operator/travel_destinations_served./travel/transportation/transport_operator	travel transport operator travel destinations served. travel transportation transport operator
+/medicine/disease/risk_factors	medicine disease risk factors
+/sports/sports_team/roster./baseball/baseball_historical_roster_position/player	sports sports team roster. baseball baseball historical roster position player
+/architecture/architectural_style/architects	architecture architectural style architects
+/book/magazine/genre	book magazine genre
+/government/legislative_session/members./government/government_position_held/basic_title	government legislative session members. government government position held basic title
+/base/academyawards/host_of_oscar_show/oscar_show_hosted	base academyawards host of oscar show oscar show hosted
+/fictional_universe/fictional_character/ethnicity	fictional universe fictional character ethnicity
+/olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/medalist	olympics olympic medal medal winners. olympics olympic medal honor medalist
+/film/special_film_performance_type/film_performance_type./film/performance/film	film special film performance type film performance type. film performance film
+/music/artist/contribution./music/recording_contribution/performance_role	music artist contribution. music recording contribution performance role
+/aviation/aircraft_model/number_owned_by./aviation/aircraft_ownership_count/aircraft_owner	aviation aircraft model number owned by. aviation aircraft ownership count aircraft owner
+/food/food/nutrients./food/nutrition_fact/nutrient	food food nutrients. food nutrition fact nutrient
+/language/human_language/writing_system	language human language writing system
+/business/business_operation/cash./measurement_unit/dated_money_value/currency	business business operation cash. measurement unit dated money value currency
+/people/person/religion	people person religion
+/sports/sports_team/roster./ice_hockey/hockey_roster_position/player	sports sports team roster. ice hockey hockey roster position player
+/education/educational_institution/sexes_accepted./education/gender_enrollment/sex	education educational institution sexes accepted. education gender enrollment sex
+/media_common/netflix_genre/titles	media common netflix genre titles
+/sports/pro_athlete/teams./ice_hockey/hockey_previous_roster_position/team	sports pro athlete teams. ice hockey hockey previous roster position team
+/sports/sports_team/roster./basketball/basketball_roster_position/position	sports sports team roster. basketball basketball roster position position
+/location/country/administrative_divisions	location country administrative divisions
+/tv/tv_program/episodes	tv tv program episodes
+/military/military_conflict/casualties./military/casualties/combatant	military military conflict casualties. military casualties combatant
+/biology/breed_registry/recognized_breeds./biology/breed_registration/breed	biology breed registry recognized breeds. biology breed registration breed
+/location/location/street_address./location/mailing_address/state_province_region	location location street address. location mailing address state province region
+/base/crime/crime_victim/crime	base crime crime victim crime
+/aviation/airline/airports_served./aviation/airline_airport_presence/airport	aviation airline airports served. aviation airline airport presence airport
+/music/voice/singers	music voice singers
+/american_football/football_team/current_roster./sports/sports_team_roster/position	american football football team current roster. sports sports team roster position
+/location/statistical_region/rent50_1./measurement_unit/dated_money_value/currency	location statistical region rent50 1. measurement unit dated money value currency
+/business/job_title/people_with_this_title./business/employment_tenure/person	business job title people with this title. business employment tenure person
+/user/narphorium/people/wealthy_person/net_worth./measurement_unit/dated_money_value/currency	user narphorium people wealthy person net worth. measurement unit dated money value currency
+/computer/programming_language_paradigm/languages	computer programming language paradigm languages
+/fictional_universe/character_occupation/characters_with_this_occupation	fictional universe character occupation characters with this occupation
+/base/collectives/collective/members./base/collectives/collective_membership/member	base collectives collective members. base collectives collective membership member
+/film/film/sequel	film film sequel
+/government/governmental_jurisdiction/government_bodies	government governmental jurisdiction government bodies
+/film/film/distributors./film/film_film_distributor_relationship/film_distribution_medium	film film distributors. film film film distributor relationship film distribution medium
+/business/business_operation/current_assets./measurement_unit/dated_money_value/currency	business business operation current assets. measurement unit dated money value currency
+/broadcast/broadcast/area_served	broadcast broadcast area served
+/american_football/football_player/rushing./american_football/player_rushing_statistics/season	american football football player rushing. american football player rushing statistics season
+/people/appointer/appointment_made./people/appointment/appointee	people appointer appointment made. people appointment appointee
+/government/government_office_category/officeholders./government/government_position_held/office_holder	government government office category officeholders. government government position held office holder
+/education/field_of_study/students_majoring./education/education/major_field_of_study	education field of study students majoring. education education major field of study
+/computer/programming_language/influenced_by	computer programming language influenced by
+/music/performance_role/regular_performances./music/group_membership/member	music performance role regular performances. music group membership member
+/people/deceased_person/place_of_death	people deceased person place of death
+/organization/organization/child./organization/organization_relationship/child	organization organization child. organization organization relationship child
+/basketball/basketball_team/roster./basketball/basketball_roster_position/player	basketball basketball team roster. basketball basketball roster position player
+/government/governmental_body/members./government/government_position_held/office_holder	government governmental body members. government government position held office holder
+/american_football/football_player/rushing./american_football/player_rushing_statistics/team	american football football player rushing. american football player rushing statistics team
+/film/actor/film./film/performance/special_performance_type	film actor film. film performance special performance type
+/organization/organization_scope/organizations_with_this_scope	organization organization scope organizations with this scope
+/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/program	tv tv personality tv regular appearances. tv tv regular personal appearance program
+/internet/website_owner/websites_owned_new./internet/website_ownership/website	internet website owner websites owned new. internet website ownership website
+/film/film_casting_director/films_casting_directed	film film casting director films casting directed
+/people/ethnicity/included_in_group	people ethnicity included in group
+/american_football/football_team/historical_coaching_staff./american_football/football_historical_coach_position/coach	american football football team historical coaching staff. american football football historical coach position coach
+/people/profession/people_with_this_profession	people profession people with this profession
+/base/marchmadness/ncaa_basketball_tournament/seeds./base/marchmadness/ncaa_tournament_seed/team	base marchmadness ncaa basketball tournament seeds. base marchmadness ncaa tournament seed team
+/common/topic/subject_of	common topic subject of
+/soccer/football_player/current_team./soccer/football_roster_position/position	soccer football player current team. soccer football roster position position
+/base/argumentmaps/original_idea/innovator	base argumentmaps original idea innovator
+/tv/tv_network/areas_served	tv tv network areas served
+/organization/organization/board_members./organization/organization_board_membership/role	organization organization board members. organization organization board membership role
+/organization/role/leaders./organization/leadership/person	organization role leaders. organization leadership person
+/film/film/film_series	film film film series
+/visual_art/visual_art_genre/artworks	visual art visual art genre artworks
+/aviation/airline/alliance	aviation airline alliance
+/organization/organization_member/member_of./organization/organization_membership/organization	organization organization member member of. organization organization membership organization
+/award/award_nominee/award_nominations./award/award_nomination/nominated_for	award award nominee award nominations. award award nomination nominated for
+/government/politician/government_positions_held./government/government_position_held/appointed_by	government politician government positions held. government government position held appointed by
+/soccer/football_team/league./soccer/football_league_participation/league	soccer football team league. soccer football league participation league
+/olympics/olympic_athlete/medals_won./olympics/olympic_medal_honor/medal	olympics olympic athlete medals won. olympics olympic medal honor medal
+/location/location/time_zones	location location time zones
+/tv/tv_writer/tv_programs./tv/tv_program_writer_relationship/tv_program	tv tv writer tv programs. tv tv program writer relationship tv program
+/music/record_label/artist	music record label artist
+/baseball/baseball_team/team_stats./baseball/baseball_team_stats/season	baseball baseball team team stats. baseball baseball team stats season
+/fictional_universe/fictional_character/children	fictional universe fictional character children
+/sports/sports_facility/teams	sports sports facility teams
+/music/group_member/artists_supported	music group member artists supported
+/food/dish/ingredients	food dish ingredients
+/user/robert/us_congress/us_representative/committee_memberships	user robert us congress us representative committee memberships
+/tv/tv_series_episode/guest_stars./tv/tv_guest_role/actor	tv tv series episode guest stars. tv tv guest role actor
+/sports/sports_award_type/winners./sports/sports_award/season	sports sports award type winners. sports sports award season
+/broadcast/broadcast/distributor	broadcast broadcast distributor
+/aviation/airline/hubs	aviation airline hubs
+/tv/tv_producer/programs_produced./tv/tv_producer_term/producer_type	tv tv producer programs produced. tv tv producer term producer type
+/location/statistical_region/gni_per_capita_in_ppp_dollars./measurement_unit/dated_money_value/currency	location statistical region gni per capita in ppp dollars. measurement unit dated money value currency
+/comic_books/comic_book_creator/characters_created	comic books comic book creator characters created
+/olympics/olympic_games/athletes./olympics/olympic_athlete_affiliation/sport	olympics olympic games athletes. olympics olympic athlete affiliation sport
+/government/form_of_government/countries	government form of government countries
+/base/twinnedtowns/twinned_town/twinned_with./base/twinnedtowns/town_twinning/twinned_towns	base twinnedtowns twinned town twinned with. base twinnedtowns town twinning twinned towns
+/military/military_conflict/commanders./military/military_command/military_combatant	military military conflict commanders. military military command military combatant
+/travel/transport_terminus/travel_destinations_served./travel/transportation/travel_destination	travel transport terminus travel destinations served. travel transportation travel destination
+/award/hall_of_fame/discipline	award hall of fame discipline
+/user/mt/default_domain/metabolite/biofluid_location	user mt default domain metabolite biofluid location
+/film/actor/film./film/performance/character	film actor film. film performance character
+/film/production_company/films	film production company films
+/user/szaijan/fantasy_football/player/position	user szaijan fantasy football player position
+/government/government_office_category/offices	government government office category offices
+/cvg/computer_videogame/gameplay_modes	cvg computer videogame gameplay modes
+/influence/influence_node/influenced	influence influence node influenced
+/olympics/olympic_medal/medal_winners./olympics/olympic_medal_honor/olympics	olympics olympic medal medal winners. olympics olympic medal honor olympics
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/athlete	olympics olympic sport athletes. olympics olympic athlete affiliation athlete
+/book/written_work/subjects	book written work subjects
+/government/political_appointer/appointees./government/government_position_held/basic_title	government political appointer appointees. government government position held basic title
+/base/thoroughbredracing/thoroughbred_racehorse/country	base thoroughbredracing thoroughbred racehorse country
+/base/fight/crime_type/includes_crimes	base fight crime type includes crimes
+/base/events/type_of_festival/recurring_festivals_of_this_type	base events type of festival recurring festivals of this type
+/organization/organization/spun_off_from./organization/organization_spin_off/parent_company	organization organization spun off from. organization organization spin off parent company
+/user/coco/science/concepts_theories/child_concept	user coco science concepts theories child concept
+/symbols/namesake/named_after	symbols namesake named after
+/american_football/football_player/former_teams./american_football/football_historical_roster_position/position_s	american football football player former teams. american football football historical roster position position s
+/book/book_subject/works	book book subject works
+/base/localfood/seasonal_month/produce_available./base/localfood/produce_availability/seasonal_months	base localfood seasonal month produce available. base localfood produce availability seasonal months
+/architecture/building_function/buildings	architecture building function buildings
+/business/business_operation/revenue./measurement_unit/dated_money_value/currency	business business operation revenue. measurement unit dated money value currency
+/royalty/royal_line/kingdom_s_ruled	royalty royal line kingdom s ruled
+/music/performance_role/regular_performances./music/group_membership/role	music performance role regular performances. music group membership role
+/military/military_conflict/force_strengths./military/force_strength/combatant	military military conflict force strengths. military force strength combatant
+/education/academic/advisees	education academic advisees
+/location/statistical_region/places_imported_from./location/imports_and_exports/imported_from	location statistical region places imported from. location imports and exports imported from
+/organization/organization/headquarters./location/mailing_address/citytown	organization organization headquarters. location mailing address citytown
+/american_football/football_team/current_roster./american_football/football_roster_position/position	american football football team current roster. american football football roster position position
+/biology/breed_origin/breeds_originating_here	biology breed origin breeds originating here
+/book/newspaper_owner/newspapers_owned	book newspaper owner newspapers owned
+/media_common/dedicatee/dedications./media_common/dedication/work_dedicated	media common dedicatee dedications. media common dedication work dedicated
+/basketball/basketball_team/roster./basketball/basketball_roster_position/position	basketball basketball team roster. basketball basketball roster position position
+/fictional_universe/fictional_setting/works_set_here	fictional universe fictional setting works set here
+/award/hall_of_fame/inductees./award/hall_of_fame_induction/inductee	award hall of fame inductees. award hall of fame induction inductee
+/geography/body_of_water/islands	geography body of water islands
+/medicine/type_of_infectious_agent/diseases	medicine type of infectious agent diseases
+/travel/travel_destination/tourist_attractions	travel travel destination tourist attractions
+/education/educational_institution/students_graduates./education/education/minor	education educational institution students graduates. education education minor
+/film/film_art_director/films_art_directed	film film art director films art directed
+/base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/sentence_type	base crime convicted criminal convictions. base crime criminal conviction sentence type
+/government/government_office_or_title/office_holders./government/government_position_held/office_holder	government government office or title office holders. government government position held office holder
+/sports/sports_team/roster./soccer/football_roster_position/position	sports sports team roster. soccer football roster position position
+/base/popstra/celebrity/supporter./base/popstra/support/supported_organization	base popstra celebrity supporter. base popstra support supported organization
+/base/contractbridge/bridge_player/second_place_finish./base/contractbridge/bridge_tournament_standings/tournament	base contractbridge bridge player second place finish. base contractbridge bridge tournament standings tournament
+/tv/tv_program/spin_offs	tv tv program spin offs
+/language/human_language/dialects	language human language dialects
+/government/legislative_session/members./government/government_position_held/office_holder	government legislative session members. government government position held office holder
+/film/film_character/portrayed_in_films_dubbed./film/dubbing_performance/film	film film character portrayed in films dubbed. film dubbing performance film
+/common/annotation_category/annotations	common annotation category annotations
+/location/symbol_of_administrative_division/official_symbol_of./location/location_symbol_relationship/administrative_division	location symbol of administrative division official symbol of. location location symbol relationship administrative division
+/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/position	ice hockey hockey team current roster. ice hockey hockey roster position position
+/award/award_nominated_work/award_nominations./award/award_nomination/award_nominee	award award nominated work award nominations. award award nomination award nominee
+/music/performance_role/guest_performances./music/recording_contribution/contributor	music performance role guest performances. music recording contribution contributor
+/sports/pro_athlete/teams./american_football/football_historical_roster_position/position_s	sports pro athlete teams. american football football historical roster position position s
+/travel/travel_destination/climate./travel/travel_destination_monthly_climate/month	travel travel destination climate. travel travel destination monthly climate month
+/american_football/football_team/historical_roster./sports/sports_team_roster/position	american football football team historical roster. sports sports team roster position
+/medicine/disease/causes	medicine disease causes
+/royalty/kingdom/rulers	royalty kingdom rulers
+/martial_arts/martial_art/well_known_practitioner	martial arts martial art well known practitioner
+/american_football/football_coach/coaching_history./american_football/football_historical_coach_position/team	american football football coach coaching history. american football football historical coach position team
+/cvg/game_voice_actor/computer_game_voice_performances./cvg/game_performance/character	cvg game voice actor computer game voice performances. cvg game performance character
+/organization/organization/involved_in_merger./organization/organization_merger/organizations_merging	organization organization involved in merger. organization organization merger organizations merging
+/education/educational_degree/people_with_this_degree./education/education/student	education educational degree people with this degree. education education student
+/broadcast/genre/content	broadcast genre content
+/common/webpage/category	common webpage category
+/award/recurring_competition/individual_competitions	award recurring competition individual competitions
+/religion/religion/texts	religion religion texts
+/baseball/baseball_team/historical_roster./baseball/baseball_historical_roster_position/player	baseball baseball team historical roster. baseball baseball historical roster position player
+/baseball/baseball_player/former_teams./baseball/baseball_historical_roster_position/team	baseball baseball player former teams. baseball baseball historical roster position team
+/location/country/currency_formerly_used	location country currency formerly used
+/sports/sports_position/players./sports/sports_team_roster/player	sports sports position players. sports sports team roster player
+/projects/project_role/projects./projects/project_participation/participant	projects project role projects. projects project participation participant
+/sports/sports_league_season/awards./sports/sports_award/award	sports sports league season awards. sports sports award award
+/government/governmental_jurisdiction/official_symbols./location/location_symbol_relationship/symbol	government governmental jurisdiction official symbols. location location symbol relationship symbol
+/sports/pro_athlete/teams./basketball/basketball_historical_roster_position/team	sports pro athlete teams. basketball basketball historical roster position team
+/common/topic/webpage./common/webpage/category	common topic webpage. common webpage category
+/comic_books/comic_book_creator/series_created	comic books comic book creator series created
+/computer/programming_language/influenced	computer programming language influenced
+/fictional_universe/fictional_universe/works_set_here	fictional universe fictional universe works set here
+/religion/place_of_worship/religion	religion place of worship religion
+/law/judge/courts./law/judicial_tenure/court	law judge courts. law judicial tenure court
+/education/educational_institution/campuses	education educational institution campuses
+/protected_sites/natural_or_cultural_site_designation/sites./protected_sites/natural_or_cultural_site_listing/listed_site	protected sites natural or cultural site designation sites. protected sites natural or cultural site listing listed site
+/film/film/produced_by	film film produced by
+/music/genre/artists	music genre artists
+/baseball/baseball_player/position_s	baseball baseball player position s
+/government/government_office_or_title/office_holders./government/government_position_held/legislative_sessions	government government office or title office holders. government government position held legislative sessions
+/fictional_universe/fictional_character/siblings./fictional_universe/sibling_relationship_of_fictional_characters/siblings	fictional universe fictional character siblings. fictional universe sibling relationship of fictional characters siblings
+/fictional_universe/fictional_character/romantically_involved_with./fictional_universe/romantic_involvement/partner	fictional universe fictional character romantically involved with. fictional universe romantic involvement partner
+/medicine/condition_prevention_factors/conditions_this_may_prevent	medicine condition prevention factors conditions this may prevent
+/people/person/parents	people person parents
+/location/statistical_region/gni_in_ppp_dollars./measurement_unit/dated_money_value/currency	location statistical region gni in ppp dollars. measurement unit dated money value currency
+/business/business_operation/current_liabilities./measurement_unit/dated_money_value/currency	business business operation current liabilities. measurement unit dated money value currency
+/base/argumentmaps/innovator/original_ideas	base argumentmaps innovator original ideas
+/education/school/school_district	education school school district
+/film/film/music	film film music
+/sports/tournament_event_competitor/events_competed_in./sports/competitor_competition_relationship/country	sports tournament event competitor events competed in. sports competitor competition relationship country
+/organization/organization/board_members./organization/organization_board_membership/member	organization organization board members. organization organization board membership member
+/basketball/basketball_player/former_teams./basketball/basketball_historical_roster_position/team	basketball basketball player former teams. basketball basketball historical roster position team
+/celebrities/celebrity/sexual_orientation./celebrities/sexual_orientation_phase/sexual_orientation	celebrities celebrity sexual orientation. celebrities sexual orientation phase sexual orientation
+/ice_hockey/hockey_player/current_team./sports/sports_team_roster/team	ice hockey hockey player current team. sports sports team roster team
+/location/statistical_region/gdp_nominal./measurement_unit/dated_money_value/currency	location statistical region gdp nominal. measurement unit dated money value currency
+/sports/sports_team/roster./baseball/baseball_roster_position/player	sports sports team roster. baseball baseball roster position player
+/olympics/olympic_athlete/medals_won./olympics/olympic_medal_honor/medalist	olympics olympic athlete medals won. olympics olympic medal honor medalist
+/food/dietary_restriction/compatible_ingredients	food dietary restriction compatible ingredients
+/sports/professional_sports_team/draft_picks./sports/sports_league_draft_pick/player	sports professional sports team draft picks. sports sports league draft pick player
+/architecture/structure/architect	architecture structure architect
+/royalty/noble_person/titles./royalty/noble_title_tenure/noble_title	royalty noble person titles. royalty noble title tenure noble title
+/film/film/production_companies	film film production companies
+/religion/religion/places_of_worship	religion religion places of worship
+/language/human_language/language_family	language human language language family
+/geography/lake/cities	geography lake cities
+/cvg/computer_videogame/game_series	cvg computer videogame game series
+/music/artist/supporting_artists	music artist supporting artists
+/people/deceased_person/cause_of_death	people deceased person cause of death
+/sports/pro_athlete/teams./american_football/football_roster_position/position	sports pro athlete teams. american football football roster position position
+/award/award_winning_work/awards_won./award/award_honor/award	award award winning work awards won. award award honor award
+/tv/tv_series_episode/writer	tv tv series episode writer
+/location/country/capital	location country capital
+/sports/sports_league/sport	sports sports league sport
+/film/film/release_date_s./film/film_regional_release_date/film_regional_debut_venue	film film release date s. film film regional release date film regional debut venue
+/base/infrastructure/power_plant_type/power_station	base infrastructure power plant type power station
+/geography/river/mouth	geography river mouth
+/base/petbreeds/dog_breed/size./base/petbreeds/dog_size/gender	base petbreeds dog breed size. base petbreeds dog size gender
+/education/field_of_study/academics_in_this_field	education field of study academics in this field
+/government/government_office_or_title/jurisdiction	government government office or title jurisdiction
+/book/author/series_written_or_contributed_to	book author series written or contributed to
+/cvg/game_character/games./cvg/game_performance/game	cvg game character games. cvg game performance game
+/base/popstra/celebrity/eats_at./base/popstra/restaurant_choice/restaurant	base popstra celebrity eats at. base popstra restaurant choice restaurant
+/base/popstra/celebrity/lived_with./base/popstra/lived_with/participant	base popstra celebrity lived with. base popstra lived with participant
+/film/film/other_crew./film/film_crew_gig/film_crew_role	film film other crew. film film crew gig film crew role
+/base/nobelprizes/nobel_subject_area/nobel_awards./base/nobelprizes/nobel_honor/subject_area	base nobelprizes nobel subject area nobel awards. base nobelprizes nobel honor subject area
+/government/political_district/representatives./government/government_position_held/legislative_sessions	government political district representatives. government government position held legislative sessions
+/organization/membership_organization/members./organization/organization_membership/member	organization membership organization members. organization organization membership member
+/aviation/aircraft_manufacturer/aircraft_models_made	aviation aircraft manufacturer aircraft models made
+/education/educational_institution/students_graduates./education/education/student	education educational institution students graduates. education education student
+/film/film/costume_design_by	film film costume design by
+/royalty/noble_title/holders./royalty/noble_title_tenure/noble_person	royalty noble title holders. royalty noble title tenure noble person
+/travel/tourist_attraction/near_travel_destination	travel tourist attraction near travel destination
+/people/person/ethnicity	people person ethnicity
+/biology/organism_classification/organisms_of_this_type	biology organism classification organisms of this type
+/american_football/football_team/current_roster./sports/sports_team_roster/player	american football football team current roster. sports sports team roster player
+/people/person/places_lived./people/place_lived/location	people person places lived. people place lived location
+/tv/tv_series_episode/producers./tv/tv_producer_episode_credit/producer	tv tv series episode producers. tv tv producer episode credit producer
+/sports/sports_team/roster./ice_hockey/hockey_previous_roster_position/player	sports sports team roster. ice hockey hockey previous roster position player
+/baseball/baseball_player/current_team./sports/sports_team_roster/team	baseball baseball player current team. sports sports team roster team
+/people/person/education./education/education/institution	people person education. education education institution
+/aviation/aircraft_owner/aircraft_fleet_composition./aviation/aircraft_ownership_count/aircraft_model	aviation aircraft owner aircraft fleet composition. aviation aircraft ownership count aircraft model
+/film/film/cinematography	film film cinematography
+/tv/tv_series_episode/series	tv tv series episode series
+/transportation/road/end2./transportation/road_starting_point/location	transportation road end2. transportation road starting point location
+/sports/pro_athlete/teams./ice_hockey/hockey_roster_position/position	sports pro athlete teams. ice hockey hockey roster position position
+/film/film_festival/location	film film festival location
+/music/group_member/vocal_range	music group member vocal range
+/base/biblioness/bibs_location/country	base biblioness bibs location country
+/base/popstra/religion/membership./base/popstra/religion_choice/member	base popstra religion membership. base popstra religion choice member
+/education/educational_institution/sports_teams	education educational institution sports teams
+/architecture/type_of_museum/museums	architecture type of museum museums
+/metropolitan_transit/transit_system/area_served	metropolitan transit transit system area served
+/award/award_category/presenting_organization	award award category presenting organization
+/military/armed_force/military_posts./military/military_post_use/military_post	military armed force military posts. military military post use military post
+/award/award_category/long_lists./award/long_list_nomination/nominee	award award category long lists. award long list nomination nominee
+/tv/non_character_role/tv_regular_personal_appearances./tv/tv_regular_personal_appearance/program	tv non character role tv regular personal appearances. tv tv regular personal appearance program
+/fictional_universe/character_gender/characters_of_this_gender	fictional universe character gender characters of this gender
+/biology/animal_breed/registered_with./biology/breed_registration/breed_group	biology animal breed registered with. biology breed registration breed group
+/base/schemastaging/tv_character_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/actor	base schemastaging tv character extra regular dubbing performances. base schemastaging tv star dubbing performance actor
+/user/radiusrs/default_domain/astrology/related_topics	user radiusrs default domain astrology related topics
+/cvg/computer_videogame/characters./cvg/game_performance/character	cvg computer videogame characters. cvg game performance character
+/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/country	olympics olympic games medals awarded. olympics olympic medal honor country
+/government/governmental_jurisdiction/governing_officials./government/government_position_held/appointed_by	government governmental jurisdiction governing officials. government government position held appointed by
+/government/politician/government_positions_held./government/government_position_held/legislative_sessions	government politician government positions held. government government position held legislative sessions
+/education/school/highest_grade_taught	education school highest grade taught
+/film/film/directed_by	film film directed by
+/broadcast/radio_station/owner	broadcast radio station owner
+/base/petbreeds/city_with_dogs/top_breeds./base/petbreeds/dog_city_relationship/dog_breed	base petbreeds city with dogs top breeds. base petbreeds dog city relationship dog breed
+/periodicals/newspaper_circulation_area/newspapers	periodicals newspaper circulation area newspapers
+/religion/religion/practices	religion religion practices
+/government/governmental_body/members./government/government_position_held/district_represented	government governmental body members. government government position held district represented
+/base/contractbridge/bridge_player/first_place_finish./base/contractbridge/bridge_tournament_standings/tournament	base contractbridge bridge player first place finish. base contractbridge bridge tournament standings tournament
+/cvg/gameplay_mode/games_with_this_mode	cvg gameplay mode games with this mode
+/tv/tv_program/recurring_writers./tv/tv_program_writer_relationship/writer	tv tv program recurring writers. tv tv program writer relationship writer
+/architecture/museum/type_of_museum	architecture museum type of museum
+/common/topic/webpage./common/webpage/topic	common topic webpage. common webpage topic
+/sports/drafted_athlete/drafted./sports/sports_league_draft_pick/team	sports drafted athlete drafted. sports sports league draft pick team
+/baseball/baseball_player/lifetime_batting_statistics./baseball/lifetime_batting_statistics/starting_season	baseball baseball player lifetime batting statistics. baseball lifetime batting statistics starting season
+/sports/sports_position/players./sports/sports_team_roster/team	sports sports position players. sports sports team roster team
+/biology/organism_classification_rank/organism_classifications	biology organism classification rank organism classifications
+/common/topic/subjects	common topic subjects
+/aviation/airport/focus_city_for	aviation airport focus city for
+/music/album/genre	music album genre
+/tv/tv_program_guest/appeared_on./tv/tv_guest_personal_appearance/episode	tv tv program guest appeared on. tv tv guest personal appearance episode
+/education/educational_degree/people_with_this_degree./education/education/specialization	education educational degree people with this degree. education education specialization
+/base/biblioness/bibs_location/state	base biblioness bibs location state
+/location/country/form_of_government	location country form of government
+/sports/sports_position/players./basketball/basketball_roster_position/player	sports sports position players. basketball basketball roster position player
+/government/politician/government_positions_held./government/government_position_held/governmental_body	government politician government positions held. government government position held governmental body
+/business/board_member/organization_board_memberships./organization/organization_board_membership/role	business board member organization board memberships. organization organization board membership role
+/broadcast/content/artist	broadcast content artist
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/character	tv tv program regular cast. tv regular tv appearance character
+/film/film/runtime./film/film_cut/type_of_film_cut	film film runtime. film film cut type of film cut
+/media_common/dedicator/dedications./media_common/dedication/dedicated_to	media common dedicator dedications. media common dedication dedicated to
+/film/writer/film	film writer film
+/base/newsevents/news_reporting_organisation/news_reports./base/newsevents/news_report/event	base newsevents news reporting organisation news reports. base newsevents news report event
+/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/character	base schemastaging tv program extra regular dubbing performances. base schemastaging tv star dubbing performance character
+/basketball/basketball_player/player_statistics./basketball/basketball_player_stats/team	basketball basketball player player statistics. basketball basketball player stats team
+/geography/river/cities	geography river cities
+/film/film/executive_produced_by	film film executive produced by
+/book/periodical/publisher./book/periodical_publisher_period/publisher	book periodical publisher. book periodical publisher period publisher
+/medicine/symptom/symptom_of	medicine symptom symptom of
+/government/government_office_or_title/office_holders./government/government_position_held/basic_title	government government office or title office holders. government government position held basic title
+/book/book/genre	book book genre
+/organization/non_profit_organization/registered_with./organization/non_profit_registration/registering_agency	organization non profit organization registered with. organization non profit registration registering agency
+/architecture/building/building_function	architecture building building function
+/base/argumentmaps/morally_disputed_activity/instance_of_abstract_moral_dispute	base argumentmaps morally disputed activity instance of abstract moral dispute
+/american_football/football_player/passing./american_football/player_passing_statistics/season	american football football player passing. american football player passing statistics season
+/military/rank/used_by_services./military/military_service/military_person	military rank used by services. military military service military person
+/time/event/locations	time event locations
+/base/parody/parodied_subject/parodies	base parody parodied subject parodies
+/film/film/dubbing_performances./film/dubbing_performance/character	film film dubbing performances. film dubbing performance character
+/base/collectives/collective_member/member_of./base/collectives/collective_membership/collective	base collectives collective member member of. base collectives collective membership collective
+/medicine/drug/drug_class	medicine drug drug class
+/media_common/netflix_title/netflix_genres	media common netflix title netflix genres
+/music/album_release_type/albums	music album release type albums
+/film/film_distribution_medium/films_distributed_in_this_medium./film/film_film_distributor_relationship/film	film film distribution medium films distributed in this medium. film film film distributor relationship film
+/film/film/film_festivals	film film film festivals
+/base/schemastaging/tv_program_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/language	base schemastaging tv program extra regular dubbing performances. base schemastaging tv star dubbing performance language
+/education/educational_institution/school_type	education educational institution school type
+/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/film	film person or entity appearing in film films. film personal film appearance film
+/basketball/basketball_player/team./sports/sports_team_roster/team	basketball basketball player team. sports sports team roster team
+/business/industry/companies	business industry companies
+/education/fraternity_sorority/colleges_and_universities	education fraternity sorority colleges and universities
+/business/asset_owner/assets_owned./business/asset_ownership/owned_asset	business asset owner assets owned. business asset ownership owned asset
+/film/film/written_by	film film written by
+/base/popstra/location/vacationers./base/popstra/vacation_choice/vacationer	base popstra location vacationers. base popstra vacation choice vacationer
+/fictional_universe/fictional_character/species	fictional universe fictional character species
+/religion/religion/notable_figures	religion religion notable figures
+/education/educational_degree/people_with_this_degree./education/education/minor	education educational degree people with this degree. education education minor
+/sports/drafted_athlete/drafted./sports/sports_league_draft_pick/school	sports drafted athlete drafted. sports sports league draft pick school
+/law/inventor/inventions	law inventor inventions
+/ice_hockey/hockey_player/current_team./ice_hockey/hockey_roster_position/team	ice hockey hockey player current team. ice hockey hockey roster position team
+/fictional_universe/character_powers/characters_with_this_ability	fictional universe character powers characters with this ability
+/government/legislative_session/members./government/government_position_held/jurisdiction_of_office	government legislative session members. government government position held jurisdiction of office
+/base/thoroughbredracing/thoroughbred_racehorse/sex	base thoroughbredracing thoroughbred racehorse sex
+/sports/sports_league/teams./sports/sports_league_participation/team	sports sports league teams. sports sports league participation team
+/people/person/sibling_s./people/sibling_relationship/sibling	people person sibling s. people sibling relationship sibling
+/organization/organization/parent./organization/organization_relationship/parent	organization organization parent. organization organization relationship parent
+/tv/tv_actor/starring_roles./tv/regular_tv_appearance/series	tv tv actor starring roles. tv regular tv appearance series
+/cvg/computer_videogame/sequel	cvg computer videogame sequel
+/film/film_subject/films	film film subject films
+/baseball/baseball_team/current_roster./sports/sports_team_roster/player	baseball baseball team current roster. sports sports team roster player
+/organization/organization/leadership./organization/leadership/role	organization organization leadership. organization leadership role
+/religion/religion/includes	religion religion includes
+/music/performance_role/track_performances./music/track_contribution/contributor	music performance role track performances. music track contribution contributor
+/film/film/film_production_design_by	film film film production design by
+/sports/sports_team/roster./american_football/football_roster_position/position	sports sports team roster. american football football roster position position
+/base/endorsements/endorsee/newspaper_endorsements./base/endorsements/newspaper_endorsement/newspaper	base endorsements endorsee newspaper endorsements. base endorsements newspaper endorsement newspaper
+/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medal	olympics olympic games medals awarded. olympics olympic medal honor medal
+/tv/tv_program/country_of_origin	tv tv program country of origin
+/user/tsegaran/random/taxonomy_subject/entry./user/tsegaran/random/taxonomy_entry/taxonomy	user tsegaran random taxonomy subject entry. user tsegaran random taxonomy entry taxonomy
+/book/school_or_movement/associated_authors	book school or movement associated authors
+/basketball/basketball_position/player_roster_position./basketball/basketball_roster_position/player	basketball basketball position player roster position. basketball basketball roster position player
+/protected_sites/iucn_category/protected_areas	protected sites iucn category protected areas
+/film/film/release_date_s./film/film_regional_release_date/film_release_region	film film release date s. film film regional release date film release region
+/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/sport	olympics olympic participating country athletes. olympics olympic athlete affiliation sport
+/film/personal_film_appearance_type/film_appearances./film/personal_film_appearance/person	film personal film appearance type film appearances. film personal film appearance person
+/film/film_costumer_designer/costume_design_for_film	film film costumer designer costume design for film
+/film/film_character/portrayed_in_films./film/performance/film	film film character portrayed in films. film performance film
+/broadcast/tv_station_owner/tv_stations	broadcast tv station owner tv stations
+/base/popstra/company/shopping_choice./base/popstra/shopping_choice/shopper	base popstra company shopping choice. base popstra shopping choice shopper
+/government/government_office_or_title/office_holders./government/government_position_held/governmental_body	government government office or title office holders. government government position held governmental body
+/film/film/genre	film film genre
+/tv/tv_program_guest/appeared_on./tv/tv_guest_personal_appearance/appearance_type	tv tv program guest appeared on. tv tv guest personal appearance appearance type
+/film/film_festival/individual_festivals	film film festival individual festivals
+/music/performance_role/guest_performances./music/recording_contribution/performance_role	music performance role guest performances. music recording contribution performance role
+/medicine/drug_ingredient/more_general_ingredient	medicine drug ingredient more general ingredient
+/base/bioventurist/science_or_technology_company/develops_treatments_for_disease	base bioventurist science or technology company develops treatments for disease
+/fictional_universe/fictional_character/gender	fictional universe fictional character gender
+/base/x2010fifaworldcupsouthafrica/world_cup_participant/world_cup_team./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/position	base x2010fifaworldcupsouthafrica world cup participant world cup team. base x2010fifaworldcupsouthafrica current world cup squad position
+/theater/theatrical_lyricist/play_lyrics_written	theater theatrical lyricist play lyrics written
+/sports/pro_athlete/teams./basketball/basketball_roster_position/position	sports pro athlete teams. basketball basketball roster position position
+/base/x2010fifaworldcupsouthafrica/world_cup_participant/world_cup_team./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	base x2010fifaworldcupsouthafrica world cup participant world cup team. base x2010fifaworldcupsouthafrica current world cup squad current club
+/education/school_district/schools	education school district schools
+/location/place_with_neighborhoods/neighborhoods	location place with neighborhoods neighborhoods
+/transportation/bridge/locale	transportation bridge locale
+/film/cinematographer/film	film cinematographer film
+/award/ranked_item/appears_in_ranked_lists./award/ranking/list	award ranked item appears in ranked lists. award ranking list
+/organization/organization/phone_number./common/phone_number/service_location	organization organization phone number. common phone number service location
+/baseball/baseball_team/historical_roster./sports/sports_team_roster/player	baseball baseball team historical roster. sports sports team roster player
+/user/alexbl/honorary_title/honorary_title/titled_people./user/alexbl/honorary_title/honorary_title_holding/conferred_upon	user alexbl honorary title honorary title titled people. user alexbl honorary title honorary title holding conferred upon
+/soccer/football_player/current_team./sports/sports_team_roster/position	soccer football player current team. sports sports team roster position
+/medicine/disease/symptoms	medicine disease symptoms
+/sports/school_sports_team/school	sports school sports team school
+/base/patronage/patron/related_client./base/patronage/patron_client_relationship/client	base patronage patron related client. base patronage patron client relationship client
+/american_football/football_player/former_teams./sports/sports_team_roster/position	american football football player former teams. sports sports team roster position
+/soccer/football_player/current_team./sports/sports_team_roster/team	soccer football player current team. sports sports team roster team
+/government/governmental_jurisdiction/governing_officials./government/government_position_held/legislative_sessions	government governmental jurisdiction governing officials. government government position held legislative sessions
+/royalty/chivalric_order_member/belongs_to_order./royalty/chivalric_order_membership/order	royalty chivalric order member belongs to order. royalty chivalric order membership order
+/music/conductor/groups./music/conducting_tenure/ensemble	music conductor groups. music conducting tenure ensemble
+/education/university/international_tuition./measurement_unit/dated_money_value/currency	education university international tuition. measurement unit dated money value currency
+/time/event/instance_of_recurring_event	time event instance of recurring event
+/sports/sports_championship_event/championship	sports sports championship event championship
+/military/military_conflict/military_personnel_involved	military military conflict military personnel involved
+/education/school/lowest_grade_taught	education school lowest grade taught
+/organization/organization_type/organizations_of_this_type	organization organization type organizations of this type
+/award/award_category/winners./award/award_honor/award_winner	award award category winners. award award honor award winner
+/tv/tv_program/program_creator	tv tv program program creator
+/location/location/partially_containedby	location location partially containedby
+/education/educational_institution/subsidiary_or_constituent_schools	education educational institution subsidiary or constituent schools
+/cvg/cvg_publisher/games_published	cvg cvg publisher games published
+/food/dietary_restriction/incompatible_ingredients	food dietary restriction incompatible ingredients
+/organization/organization/geographic_scope	organization organization geographic scope
+/base/contractbridge/bridge_player/teammates./base/contractbridge/bridge_player_teammates/teammate	base contractbridge bridge player teammates. base contractbridge bridge player teammates teammate
+/soccer/football_league/teams./soccer/football_league_participation/team	soccer football league teams. soccer football league participation team
+/film/film/prequel	film film prequel
+/broadcast/content/genre	broadcast content genre
+/government/legislative_session/members./government/government_position_held/office_position_or_title	government legislative session members. government government position held office position or title
+/dining/cuisine/restaurant	dining cuisine restaurant
+/award/award_winner/awards_won./award/award_honor/ceremony	award award winner awards won. award award honor ceremony
+/sports/sports_championship_event/runner_up	sports sports championship event runner up
+/location/hud_foreclosure_area/total_residential_addresses./measurement_unit/dated_integer/source	location hud foreclosure area total residential addresses. measurement unit dated integer source
+/visual_art/artwork/art_form	visual art artwork art form
+/astronomy/celestial_object_category/objects	astronomy celestial object category objects
+/sports/sport/pro_athletes./sports/pro_sports_played/athlete	sports sport pro athletes. sports pro sports played athlete
+/military/military_person/participated_in_conflicts	military military person participated in conflicts
+/visual_art/visual_artist/associated_periods_or_movements	visual art visual artist associated periods or movements
+/olympics/olympic_participating_country/athletes./olympics/olympic_athlete_affiliation/olympics	olympics olympic participating country athletes. olympics olympic athlete affiliation olympics
+/government/government_office_category/officeholders./government/government_position_held/district_represented	government government office category officeholders. government government position held district represented
+/user/szaijan/fantasy_football/position/player	user szaijan fantasy football position player
+/business/brand/owner_s./business/company_brand_relationship/company	business brand owner s. business company brand relationship company
+/finance/currency/countries_used	finance currency countries used
+/base/americancomedy/comedy_group/members./base/americancomedy/comedy_group_membership/member	base americancomedy comedy group members. base americancomedy comedy group membership member
+/american_football/football_coach/coaching_history./american_football/football_historical_coach_position/position	american football football coach coaching history. american football football historical coach position position
+/soccer/football_team/current_roster./sports/sports_team_roster/position	soccer football team current roster. sports sports team roster position
+/tv/tv_series_episode/guest_personal_appearances./tv/tv_guest_personal_appearance/person	tv tv series episode guest personal appearances. tv tv guest personal appearance person
+/broadcast/radio_station_owner/radio_stations	broadcast radio station owner radio stations
+/location/country/first_level_divisions	location country first level divisions
+/base/localfood/food_producing_region/seasonal_availability./base/localfood/produce_availability/produce	base localfood food producing region seasonal availability. base localfood produce availability produce
+/venture_capital/venture_investor/investments./venture_capital/venture_investment/company	venture capital venture investor investments. venture capital venture investment company
+/computer/operating_system_developer/operating_systems_developed	computer operating system developer operating systems developed
+/user/tfmorris/default_domain/document/signatories	user tfmorris default domain document signatories
+/government/government_office_or_title/category	government government office or title category
+/government/politician/government_positions_held./government/government_position_held/district_represented	government politician government positions held. government government position held district represented
+/sports/sports_team/sport	sports sports team sport
+/business/job_title/people_with_this_title./business/employment_tenure/company	business job title people with this title. business employment tenure company
+/baseball/baseball_player/former_teams./sports/sports_team_roster/team	baseball baseball player former teams. sports sports team roster team
+/sports/sports_team/roster./ice_hockey/hockey_roster_position/position	sports sports team roster. ice hockey hockey roster position position
+/american_football/football_player/current_team./american_football/football_roster_position/position	american football football player current team. american football football roster position position
+/baseball/baseball_league/teams	baseball baseball league teams
+/base/schemastaging/tv_actor_extra/regular_dubbing_performances./base/schemastaging/tv_star_dubbing_performance/language	base schemastaging tv actor extra regular dubbing performances. base schemastaging tv star dubbing performance language
+/sports/sports_team_location/teams	sports sports team location teams
+/religion/religious_leader/religious_leadership./religion/religious_organization_leadership/organization	religion religious leader religious leadership. religion religious organization leadership organization
+/education/field_of_study/subdiscipline_of	education field of study subdiscipline of
+/baseball/baseball_team/current_roster./baseball/baseball_roster_position/player	baseball baseball team current roster. baseball baseball roster position player
+/film/director/film	film director film
+/book/newspaper/owner	book newspaper owner
+/geography/geographical_feature/category	geography geographical feature category
+/influence/influence_node/influenced_by	influence influence node influenced by
+/location/country/currency_used	location country currency used
+/chemistry/chemical_compound/solubility./chemistry/solubility_relationship/solvent	chemistry chemical compound solubility. chemistry solubility relationship solvent
+/organization/organization/headquarters./location/mailing_address/state_province_region	organization organization headquarters. location mailing address state province region
+/religion/religious_text/religious_text_of	religion religious text religious text of
+/tv/tv_actor/starring_roles./tv/regular_tv_appearance/character	tv tv actor starring roles. tv regular tv appearance character
+/food/ingredient/incompatible_with_dietary_restrictions	food ingredient incompatible with dietary restrictions
+/basketball/basketball_team/roster./sports/sports_team_roster/position	basketball basketball team roster. sports sports team roster position
+/fictional_universe/fictional_character/powers_or_abilities	fictional universe fictional character powers or abilities
+/location/it_province/capital	location it province capital
+/organization/role/leaders./organization/leadership/organization	organization role leaders. organization leadership organization
+/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/players	base x2010fifaworldcupsouthafrica world cup squad current world cup squad. base x2010fifaworldcupsouthafrica current world cup squad players
+/language/language_dialect/language	language language dialect language
+/base/schemastaging/athlete_extra/salary./base/schemastaging/athlete_salary/currency	base schemastaging athlete extra salary. base schemastaging athlete salary currency
+/sports/sports_league_draft/picks./sports/sports_league_draft_pick/school	sports sports league draft picks. sports sports league draft pick school
+/architecture/structure/construction_cost./measurement_unit/money_value/currency	architecture structure construction cost. measurement unit money value currency
+/military/military_conflict/combatants./military/military_combatant_group/combatants	military military conflict combatants. military military combatant group combatants
+/base/newsevents/news_reported_event/news_report_s./base/newsevents/news_report/news_reporting_organisation	base newsevents news reported event news report s. base newsevents news report news reporting organisation
+/music/album/artist	music album artist
+/soccer/football_team_manager/team./soccer/football_team_management_tenure/team	soccer football team manager team. soccer football team management tenure team
+/location/location/events	location location events
+/soccer/football_position/players	soccer football position players
+/location/us_county/county_seat	location us county county seat
+/sports/sports_award_winner/awards./sports/sports_award/team	sports sports award winner awards. sports sports award team
+/tv/tv_series_season/series	tv tv series season series
+/medicine/disease_cause/diseases	medicine disease cause diseases
+/language/language_writing_system/languages	language language writing system languages
+/cvg/computer_videogame/characters./cvg/game_performance/voice_actor	cvg computer videogame characters. cvg game performance voice actor
+/fictional_universe/ethnicity_in_fiction/characters_of_this_ethnicity	fictional universe ethnicity in fiction characters of this ethnicity
+/business/consumer_company/brands./business/company_brand_relationship/brand	business consumer company brands. business company brand relationship brand
+/music/musical_group/member./music/group_membership/role	music musical group member. music group membership role
+/base/x2010fifaworldcupsouthafrica/world_cup_participant/world_cup_team./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/national_team	base x2010fifaworldcupsouthafrica world cup participant world cup team. base x2010fifaworldcupsouthafrica current world cup squad national team
+/sports/sports_award_winner/awards./sports/sports_award/season	sports sports award winner awards. sports sports award season
+/language/language_family/languages	language language family languages
+/astronomy/orbital_relationship/orbits	astronomy orbital relationship orbits
+/book/newspaper/headquarters./location/mailing_address/state_province_region	book newspaper headquarters. location mailing address state province region
+/baseball/baseball_player/current_team./baseball/baseball_roster_position/team	baseball baseball player current team. baseball baseball roster position team
+/military/military_combatant/casualties./military/casualties/military_conflict	military military combatant casualties. military casualties military conflict
+/film/film/gross_revenue./measurement_unit/dated_money_value/currency	film film gross revenue. measurement unit dated money value currency
+/base/popstra/celebrity/canoodled./base/popstra/canoodled/participant	base popstra celebrity canoodled. base popstra canoodled participant
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/contact_category	base schemastaging organization extra phone number. base schemastaging phone sandbox contact category
+/base/contractbridge/bridge_player/second_place_finish./base/contractbridge/bridge_tournament_standings/first_place	base contractbridge bridge player second place finish. base contractbridge bridge tournament standings first place
+/celebrities/sexual_orientation/celebrities./celebrities/sexual_orientation_phase/celebrity	celebrities sexual orientation celebrities. celebrities sexual orientation phase celebrity
+/american_football/football_player/position_s	american football football player position s
+/fictional_universe/fictional_character/character_created_by	fictional universe fictional character character created by
+/award/award/presented_by	award award presented by
+/soccer/football_team/current_roster./soccer/football_roster_position/position	soccer football team current roster. soccer football roster position position
+/military/military_post/used_by_armed_forces./military/military_post_use/armed_force	military military post used by armed forces. military military post use armed force
+/government/political_appointer/appointees./government/government_position_held/office_holder	government political appointer appointees. government government position held office holder
+/sports/sports_team/roster./american_football/football_historical_roster_position/player	sports sports team roster. american football football historical roster position player
+/government/governmental_body/body_this_is_a_component_of	government governmental body body this is a component of
+/book/author/works_written	book author works written
+/basketball/basketball_player/team./basketball/basketball_roster_position/position	basketball basketball player team. basketball basketball roster position position
+/royalty/monarch/kingdom	royalty monarch kingdom
+/people/appointee/position./people/appointment/appointed_role	people appointee position. people appointment appointed role
+/location/statistical_region/rent50_4./measurement_unit/dated_money_value/currency	location statistical region rent50 4. measurement unit dated money value currency
+/theater/play/country_of_origin	theater play country of origin
+/sports/pro_athlete/teams./baseball/baseball_roster_position/team	sports pro athlete teams. baseball baseball roster position team
+/ice_hockey/hockey_team/current_roster./ice_hockey/hockey_roster_position/player	ice hockey hockey team current roster. ice hockey hockey roster position player
+/base/schemastaging/athlete_extra/salary./base/schemastaging/athlete_salary/team	base schemastaging athlete extra salary. base schemastaging athlete salary team
+/ice_hockey/hockey_position/players	ice hockey hockey position players
+/tv/tv_network/programs./tv/tv_network_duration/program	tv tv network programs. tv tv network duration program
+/film/film/dubbing_performances./film/dubbing_performance/actor	film film dubbing performances. film dubbing performance actor
+/sports/sport/officials	sports sport officials
+/aviation/airline/focus_cities	aviation airline focus cities
+/tv/tv_character/appeared_in_tv_program./tv/regular_tv_appearance/special_performance_type	tv tv character appeared in tv program. tv regular tv appearance special performance type
+/comic_books/comic_book_character/regular_featured_appearances	comic books comic book character regular featured appearances
+/location/hud_foreclosure_area/estimated_number_foreclosures./measurement_unit/dated_integer/source	location hud foreclosure area estimated number foreclosures. measurement unit dated integer source
+/film/special_film_performance_type/film_performance_type./film/performance/character	film special film performance type film performance type. film performance character
+/olympics/olympic_games/participating_countries	olympics olympic games participating countries
+/transportation/road/major_cities	transportation road major cities
+/american_football/football_player/games./american_football/player_game_statistics/season	american football football player games. american football player game statistics season
+/base/activism/activist/area_of_activism	base activism activist area of activism
+/sports/pro_athlete/teams./american_football/football_historical_roster_position/team	sports pro athlete teams. american football football historical roster position team
+/time/event/includes_event	time event includes event
+/visual_art/art_subject/artwork_on_the_subject	visual art art subject artwork on the subject
+/royalty/noble_title/used_in./royalty/system_title_relationship/system	royalty noble title used in. royalty system title relationship system
+/soccer/football_player/current_team./soccer/football_roster_position/team	soccer football player current team. soccer football roster position team
+/cvg/computer_game_subject/games	cvg computer game subject games
+/cvg/cvg_genre/games	cvg cvg genre games
+/location/location/contains	location location contains
+/tv/tv_program/seasons	tv tv program seasons
+/olympics/olympic_games/athletes./olympics/olympic_athlete_affiliation/country	olympics olympic games athletes. olympics olympic athlete affiliation country
+/location/neighborhood/neighborhood_of	location neighborhood neighborhood of
+/education/educational_institution/colors	education educational institution colors
+/film/film/edited_by	film film edited by
+/sports/sports_award_type/winners./sports/sports_award/award_winner	sports sports award type winners. sports sports award award winner
+/law/court/judges./law/judicial_tenure/judge	law court judges. law judicial tenure judge
+/business/board_member/organization_board_memberships./organization/organization_board_membership/organization	business board member organization board memberships. organization organization board membership organization
+/american_football/football_player/current_team./sports/sports_team_roster/team	american football football player current team. sports sports team roster team
+/tv/special_tv_performance_type/episode_performances./tv/tv_guest_role/actor	tv special tv performance type episode performances. tv tv guest role actor
+/base/americancomedy/celebrity_impressionist/celebrities_impersonated	base americancomedy celebrity impressionist celebrities impersonated
+/basketball/basketball_player/former_teams./sports/sports_team_roster/team	basketball basketball player former teams. sports sports team roster team
+/government/governmental_body/component_bodies	government governmental body component bodies
+/basketball/basketball_player/team./sports/sports_team_roster/position	basketball basketball player team. sports sports team roster position
+/education/field_of_study/subdisciplines	education field of study subdisciplines
+/tennis/tennis_tournament_champion/tennis_titles./tennis/tennis_tournament_championship/winner	tennis tennis tournament champion tennis titles. tennis tennis tournament championship winner
+/sports/pro_athlete/teams./baseball/baseball_historical_roster_position/team	sports pro athlete teams. baseball baseball historical roster position team
+/organization/organization/companies_acquired./business/acquisition/company_acquired	organization organization companies acquired. business acquisition company acquired
+/basketball/basketball_player/position_s	basketball basketball player position s
+/sports/sport/related_equipment	sports sport related equipment
+/tv/tv_producer/programs_produced./tv/tv_producer_term/program	tv tv producer programs produced. tv tv producer term program
+/tv/tv_actor/starring_roles./tv/regular_tv_appearance/seasons	tv tv actor starring roles. tv regular tv appearance seasons
+/fictional_universe/work_of_fiction/setting	fictional universe work of fiction setting
+/baseball/baseball_position/players	baseball baseball position players
+/sports/sport_country/athletic_performances./sports/competitor_competition_relationship/competitors	sports sport country athletic performances. sports competitor competition relationship competitors
+/visual_art/artwork/art_subject	visual art artwork art subject
+/base/contractbridge/bridge_tournament/standing./base/contractbridge/bridge_tournament_standings/second_place	base contractbridge bridge tournament standing. base contractbridge bridge tournament standings second place
+/broadcast/content/language	broadcast content language
+/award/award_winning_work/awards_won./award/award_honor/honored_for	award award winning work awards won. award award honor honored for
+/base/parody/parody/parody_of	base parody parody parody of
+/theater/play/genre	theater play genre
+/medicine/drug/legal_status	medicine drug legal status
+/metropolitan_transit/transit_service_type/transit_lines	metropolitan transit transit service type transit lines
+/interests/collection_category/parent_category	interests collection category parent category
+/sports/sport/teams	sports sport teams
+/user/robert/us_congress/house_committee/current_members	user robert us congress house committee current members
+/base/eating/practicer_of_diet/diet	base eating practicer of diet diet
+/award/award_category/category_of	award award category category of
+/architecture/structure/architectural_style	architecture structure architectural style
+/base/aareas/schema/administrative_area/administrative_area_type	base aareas schema administrative area administrative area type
+/base/popstra/company/fashion_choice./base/popstra/fashion_choice/fashion_wearer	base popstra company fashion choice. base popstra fashion choice fashion wearer
+/music/group_member/membership./music/group_membership/role	music group member membership. music group membership role
+/influence/influence_node/peers./influence/peer_relationship/peers	influence influence node peers. influence peer relationship peers
+/tv/tv_program/spun_off_from	tv tv program spun off from
+/education/fraternity_sorority/founded_location	education fraternity sorority founded location
+/education/educational_institution/students_graduates./education/education/major_field_of_study	education educational institution students graduates. education education major field of study
+/base/fashionmodels/fashion_model/hair_color	base fashionmodels fashion model hair color
+/education/educational_institution/students_graduates./education/education/degree	education educational institution students graduates. education education degree
+/film/editor/film	film editor film
+/comic_books/comic_book_character/created_by	comic books comic book character created by
+/military/military_combatant/military_commanders./military/military_command/military_conflict	military military combatant military commanders. military military command military conflict
+/sports/sports_position/players./american_football/football_roster_position/team	sports sports position players. american football football roster position team
+/government/governmental_jurisdiction/governing_officials./government/government_position_held/district_represented	government governmental jurisdiction governing officials. government government position held district represented
+/government/government_office_category/officeholders./government/government_position_held/office_position_or_title	government government office category officeholders. government government position held office position or title
+/fictional_universe/work_of_fiction/part_of_these_fictional_universes	fictional universe work of fiction part of these fictional universes
+/cvg/game_character/games./cvg/game_performance/voice_actor	cvg game character games. cvg game performance voice actor
+/tv/tv_actor/starring_roles./tv/regular_tv_appearance/special_performance_type	tv tv actor starring roles. tv regular tv appearance special performance type
+/government/government_office_category/officeholders./government/government_position_held/governmental_body	government government office category officeholders. government government position held governmental body
+/location/location/partially_contains	location location partially contains
+/award/award_winning_work/awards_won./award/award_honor/award_winner	award award winning work awards won. award award honor award winner
+/sports/sports_position/players./american_football/football_historical_roster_position/team	sports sports position players. american football football historical roster position team
+/user/robert/us_congress/us_representative/congressional_caucus_memberships	user robert us congress us representative congressional caucus memberships
+/royalty/monarch/royal_line	royalty monarch royal line
+/fictional_universe/fictional_setting/fictional_characters_born_here	fictional universe fictional setting fictional characters born here
+/transportation/bridge_type/bridges_of_this_type	transportation bridge type bridges of this type
+/base/fashionmodels/hair_color/fashion_models_with_this_hair_color	base fashionmodels hair color fashion models with this hair color
+/music/group_member/instruments_played	music group member instruments played
+/education/university/local_tuition./measurement_unit/dated_money_value/currency	education university local tuition. measurement unit dated money value currency
+/business/business_operation/assets./measurement_unit/dated_money_value/currency	business business operation assets. measurement unit dated money value currency
+/education/field_of_study/students_majoring./education/education/degree	education field of study students majoring. education education degree
+/people/cause_of_death/people	people cause of death people
+/ice_hockey/hockey_team/historical_roster./ice_hockey/hockey_previous_roster_position/player	ice hockey hockey team historical roster. ice hockey hockey previous roster position player
+/base/thoroughbredracing/thoroughbred_racehorse_origin/horses_from_this_location	base thoroughbredracing thoroughbred racehorse origin horses from this location
+/military/military_combatant/force_deployments./military/force_strength/military_conflict	military military combatant force deployments. military force strength military conflict
+/organization/organization/place_founded	organization organization place founded
+/sports/sports_position/players./soccer/football_roster_position/player	sports sports position players. soccer football roster position player
+/royalty/system_of_nobility/titles./royalty/system_title_relationship/title	royalty system of nobility titles. royalty system title relationship title
+/film/film/release_date_s./film/film_regional_release_date/film_release_distribution_medium	film film release date s. film film regional release date film release distribution medium
+/exhibitions/exhibition_sponsor/exhibitions_sponsored./exhibitions/exhibition_run/venue	exhibitions exhibition sponsor exhibitions sponsored. exhibitions exhibition run venue
+/organization/organization_founder/organizations_founded	organization organization founder organizations founded
+/base/endorsements/endorsing_newspaper/endorsements./base/endorsements/newspaper_endorsement/election	base endorsements endorsing newspaper endorsements. base endorsements newspaper endorsement election
+/base/ecology/food_web_member/belongs_to_ecosystem_s	base ecology food web member belongs to ecosystem s
+/olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/sport	olympics olympic athlete country. olympics olympic athlete affiliation sport
+/book/written_work/author	book written work author
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/olympics	olympics olympic sport athletes. olympics olympic athlete affiliation olympics
+/biology/breed_group/breeds_in_this_group./biology/breed_registration/breed	biology breed group breeds in this group. biology breed registration breed
+/medicine/notable_person_with_medical_condition/condition	medicine notable person with medical condition condition
+/education/university/fraternities_and_sororities	education university fraternities and sororities
+/tv/non_character_role/tv_guest_personal_appearances./tv/tv_guest_personal_appearance/person	tv non character role tv guest personal appearances. tv tv guest personal appearance person
+/base/fight/sports_official/sport	base fight sports official sport
+/film/film_company/films./film/film_film_company_relationship/film	film film company films. film film film company relationship film
+/base/popstra/company/product_endorser./base/popstra/paid_support/endorser	base popstra company product endorser. base popstra paid support endorser
+/government/governmental_jurisdiction/government_positions	government governmental jurisdiction government positions
+/award/award_ceremony/awards_presented./award/award_honor/award	award award ceremony awards presented. award award honor award
+/celebrities/celebrity/celebrity_friends./celebrities/friendship/friend	celebrities celebrity celebrity friends. celebrities friendship friend
+/organization/organization/phone_number./common/phone_number/category	organization organization phone number. common phone number category
+/film/film/film_art_direction_by	film film film art direction by
+/award/award_category/winners./award/award_honor/ceremony	award award category winners. award award honor ceremony
+/aviation/aircraft_type/aircraft_of_this_type	aviation aircraft type aircraft of this type
+/location/country/languages_spoken	location country languages spoken
+/computer/programming_language_designer/languages_designed	computer programming language designer languages designed
+/user/alexander/philosophy/era/philosophers	user alexander philosophy era philosophers
+/cvg/computer_videogame/designers	cvg computer videogame designers
+/transportation/bridge/bridge_type	transportation bridge bridge type
+/award/award_ceremony/awards_presented./award/award_honor/honored_for	award award ceremony awards presented. award award honor honored for
+/government/political_district/representatives./government/government_position_held/office_holder	government political district representatives. government government position held office holder
+/government/politician/party./government/political_party_tenure/party	government politician party. government political party tenure party
+/military/armed_force/personnel./military/military_service/military_person	military armed force personnel. military military service military person
+/base/crime/crime_victim/crime_type	base crime crime victim crime type
+/base/petbreeds/dog_breed/cities_where_this_dog_is_popular./base/petbreeds/dog_city_relationship/cities	base petbreeds dog breed cities where this dog is popular. base petbreeds dog city relationship cities
+/base/crime/convicted_criminal/convictions./base/crime/criminal_conviction/guilty_of	base crime convicted criminal convictions. base crime criminal conviction guilty of
+/organization/organization/product_of_merger./organization/organization_merger/organizations_merging	organization organization product of merger. organization organization merger organizations merging
+/location/hud_county_place/county	location hud county place county
+/film/music_contributor/film	film music contributor film
+/geography/lake_type/lakes_of_this_type	geography lake type lakes of this type
+/baseball/baseball_player/lifetime_batting_statistics./baseball/lifetime_batting_statistics/ending_season	baseball baseball player lifetime batting statistics. baseball lifetime batting statistics ending season
+/film/film/other_film_companies./film/film_film_company_relationship/film_company	film film other film companies. film film film company relationship film company
+/cvg/computer_videogame/cvg_genre	cvg computer videogame cvg genre
+/baseball/baseball_team/current_roster./sports/sports_team_roster/position	baseball baseball team current roster. sports sports team roster position
+/base/popstra/celebrity/hangout./base/popstra/hangout/business_location	base popstra celebrity hangout. base popstra hangout business location
+/soccer/football_player/matches_played./soccer/football_player_match_participation/team	soccer football player matches played. soccer football player match participation team
+/education/academic/research_areas	education academic research areas
+/music/artist/album	music artist album
+/sports/pro_athlete/teams./ice_hockey/hockey_roster_position/team	sports pro athlete teams. ice hockey hockey roster position team
+/biology/domesticated_animal/breeds	biology domesticated animal breeds
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/special_performance_type	tv tv program regular cast. tv regular tv appearance special performance type
+/american_football/football_player/former_teams./american_football/football_historical_roster_position/team	american football football player former teams. american football football historical roster position team
+/religion/religion/is_part_of	religion religion is part of
+/olympics/olympic_sport/athletes./olympics/olympic_athlete_affiliation/country	olympics olympic sport athletes. olympics olympic athlete affiliation country
+/base/bioventurist/bv_medical_condition/company_involved	base bioventurist bv medical condition company involved
+/food/diet/followers	food diet followers
+/sports/pro_athlete/teams./soccer/football_roster_position/position	sports pro athlete teams. soccer football roster position position
+/people/ethnicity/people	people ethnicity people
+/architecture/structure/owner./architecture/ownership/owner	architecture structure owner. architecture ownership owner
+/base/thoroughbredracing/thoroughbred_racehorse/color	base thoroughbredracing thoroughbred racehorse color
+/people/place_of_interment/interred_here	people place of interment interred here
+/location/capital_of_administrative_division/capital_of./location/administrative_division_capital_relationship/administrative_division	location capital of administrative division capital of. location administrative division capital relationship administrative division
+/user/robert/us_congress/congressional_caucus/current_house_members	user robert us congress congressional caucus current house members
+/projects/project_participant/projects./projects/project_participation/role	projects project participant projects. projects project participation role
+/sports/sports_team/championships	sports sports team championships
+/base/petbreeds/dog_coat_color/dog_breeds	base petbreeds dog coat color dog breeds
+/music/instrument/family	music instrument family
+/base/schemastaging/person_extra/net_worth./measurement_unit/dated_money_value/currency	base schemastaging person extra net worth. measurement unit dated money value currency
+/broadcast/content/broadcast	broadcast content broadcast
+/business/business_operation/liabilities./measurement_unit/dated_money_value/currency	business business operation liabilities. measurement unit dated money value currency
+/fictional_universe/fictional_character/married_to./fictional_universe/marriage_of_fictional_characters/spouses	fictional universe fictional character married to. fictional universe marriage of fictional characters spouses
+/media_common/dedicatee/dedications./media_common/dedication/dedicated_by	media common dedicatee dedications. media common dedication dedicated by
+/award/award_presenting_organization/award_categories_presented	award award presenting organization award categories presented
+/base/eating/diets/people_who_follow_this_diet	base eating diets people who follow this diet
+/book/newspaper/headquarters./location/mailing_address/citytown	book newspaper headquarters. location mailing address citytown
+/american_football/football_player/current_team./american_football/football_roster_position/team	american football football player current team. american football football roster position team
+/sports/professional_sports_team/owner_s	sports professional sports team owner s
+/sports/sports_position/players./ice_hockey/hockey_roster_position/team	sports sports position players. ice hockey hockey roster position team
+/sports/sports_position/players./ice_hockey/hockey_roster_position/player	sports sports position players. ice hockey hockey roster position player
+/base/saints/saint/venerated_in	base saints saint venerated in
+/astronomy/star_system_body/star_system	astronomy star system body star system
+/tv/tv_personality/tv_regular_appearances./tv/tv_regular_personal_appearance/appearance_type	tv tv personality tv regular appearances. tv tv regular personal appearance appearance type
+/theater/theater_actor/theater_roles./theater/theater_role/role	theater theater actor theater roles. theater theater role role
+/comic_books/comic_book_series/publisher	comic books comic book series publisher
+/music/musical_group/member./music/group_membership/member	music musical group member. music group membership member
+/sports/sports_team/roster./american_football/football_roster_position/player	sports sports team roster. american football football roster position player
+/food/dish/cuisine	food dish cuisine
+/location/country/second_level_divisions	location country second level divisions
+/people/person/spouse_s./people/marriage/spouse	people person spouse s. people marriage spouse
+/award/hall_of_fame_inductee/hall_of_fame_inductions./award/hall_of_fame_induction/hall_of_fame	award hall of fame inductee hall of fame inductions. award hall of fame induction hall of fame
+/music/genre/albums	music genre albums
+/people/person/spouse_s./people/marriage/location_of_ceremony	people person spouse s. people marriage location of ceremony
+/architecture/architect/architectural_style	architecture architect architectural style
+/medicine/disease/medical_specialties	medicine disease medical specialties
+/broadcast/distributor/distributes	broadcast distributor distributes
+/award/award_winner/awards_won./award/award_honor/award	award award winner awards won. award award honor award
+/people/person/employment_history./business/employment_tenure/title	people person employment history. business employment tenure title
+/aviation/airport/serves	aviation airport serves
+/business/consumer_company/products./business/company_product_relationship/consumer_product	business consumer company products. business company product relationship consumer product
+/education/field_of_study/students_majoring./education/education/institution	education field of study students majoring. education education institution
+/user/hangy/default_domain/sports_team_gender/gender	user hangy default domain sports team gender gender
+/film/film/starring./film/performance/character	film film starring. film performance character
+/sports/sport/leagues	sports sport leagues
+/common/topic/webpage./common/webpage/resource	common topic webpage. common webpage resource
+/government/political_district/representatives./government/government_position_held/governmental_body	government political district representatives. government government position held governmental body
+/fictional_universe/fictional_universe/characters	fictional universe fictional universe characters
+/computer/computer/manufacturer	computer computer manufacturer
+/base/aareas/schema/administrative_area/administrative_children	base aareas schema administrative area administrative children
+/film/film/starring./film/performance/special_performance_type	film film starring. film performance special performance type
+/base/marchmadness/ncaa_basketball_team/ncaa_tournament_seeds./base/marchmadness/ncaa_tournament_seed/tournament	base marchmadness ncaa basketball team ncaa tournament seeds. base marchmadness ncaa tournament seed tournament
+/broadcast/broadcast/content	broadcast broadcast content
+/film/film_character/portrayed_in_films./film/performance/special_performance_type	film film character portrayed in films. film performance special performance type
+/government/governmental_body/sessions	government governmental body sessions
+/ice_hockey/hockey_player/former_team_s./ice_hockey/hockey_previous_roster_position/team	ice hockey hockey player former team s. ice hockey hockey previous roster position team
+/film/film/language	film film language
+/biology/animal_breed/registered_with./biology/breed_registration/registry	biology animal breed registered with. biology breed registration registry
+/award/award_nominee/award_nominations./award/award_nomination/award_nominee	award award nominee award nominations. award award nomination award nominee
+/award/award_nominee/award_nominations./award/award_nomination/award	award award nominee award nominations. award award nomination award
+/visual_art/art_period_movement/associated_artists	visual art art period movement associated artists
+/user/ktrueman/default_domain/international_organization/member_states	user ktrueman default domain international organization member states
+/award/competition/instance_of_recurring_competition	award competition instance of recurring competition
+/astronomy/orbital_relationship/orbited_by	astronomy orbital relationship orbited by
+/travel/travel_destination/how_to_get_here./travel/transportation/transport_operator	travel travel destination how to get here. travel transportation transport operator
+/broadcast/artist/content	broadcast artist content
+/dataworld/gardening_hint/split_to	dataworld gardening hint split to
+/baseball/baseball_player/batting_stats./baseball/batting_statistics/team	baseball baseball player batting stats. baseball batting statistics team
+/location/administrative_division/first_level_division_of	location administrative division first level division of
+/base/americancomedy/comedy_group_member/belongs_to./base/americancomedy/comedy_group_membership/group	base americancomedy comedy group member belongs to. base americancomedy comedy group membership group
+/visual_art/visual_art_form/artworks	visual art visual art form artworks
+/broadcast/content/location	broadcast content location
+/basketball/basketball_position/player_roster_position./sports/sports_team_roster/team	basketball basketball position player roster position. sports sports team roster team
+/award/award_presenting_organization/awards_presented	award award presenting organization awards presented
+/computer/computer_manufacturer_brand/computer_models	computer computer manufacturer brand computer models
+/award/award_ceremony/awards_presented./award/award_honor/award_winner	award award ceremony awards presented. award award honor award winner
+/film/film/other_crew./film/film_crew_gig/crewmember	film film other crew. film film crew gig crewmember
+/american_football/football_player/games./american_football/player_game_statistics/team	american football football player games. american football player game statistics team
+/location/statistical_region/population./measurement_unit/dated_integer/source	location statistical region population. measurement unit dated integer source
+/medicine/disease/includes_diseases	medicine disease includes diseases
+/computer/operating_system/includes_os_versions	computer operating system includes os versions
+/computer/software/compatible_oses./computer/software_compatibility/operating_system	computer software compatible oses. computer software compatibility operating system
+/location/hud_foreclosure_area/hhuniv./measurement_unit/dated_integer/source	location hud foreclosure area hhuniv. measurement unit dated integer source
+/comic_books/comic_book_fictional_universe/characters_primarily_appearing_in_this_universe	comic books comic book fictional universe characters primarily appearing in this universe
+/location/hud_foreclosure_area/total_90_day_vacant_residential_addresses./measurement_unit/dated_integer/source	location hud foreclosure area total 90 day vacant residential addresses. measurement unit dated integer source
+/tv/tv_actor/guest_roles./tv/tv_guest_role/special_performance_type	tv tv actor guest roles. tv tv guest role special performance type
+/tv/tv_producer/tv_episodes_produced./tv/tv_producer_episode_credit/episode	tv tv producer tv episodes produced. tv tv producer episode credit episode
+/government/political_party/politicians_in_this_party./government/political_party_tenure/politician	government political party politicians in this party. government political party tenure politician
+/people/family_member/family	people family member family
+/sports/pro_athlete/teams./sports/sports_team_roster/position	sports pro athlete teams. sports sports team roster position
+/organization/endowed_organization/endowment./measurement_unit/dated_money_value/currency	organization endowed organization endowment. measurement unit dated money value currency
+/base/popstra/celebrity/friendship./base/popstra/friendship/participant	base popstra celebrity friendship. base popstra friendship participant
+/base/activism/activism_issue/activist_organizations	base activism activism issue activist organizations
+/business/sponsored_recipient/sponsorship./business/sponsorship/sponsored_by	business sponsored recipient sponsorship. business sponsorship sponsored by
+/internet/website/owner_new./internet/website_ownership/owner	internet website owner new. internet website ownership owner
+/base/schemastaging/organization_extra/phone_number./base/schemastaging/phone_sandbox/service_language	base schemastaging organization extra phone number. base schemastaging phone sandbox service language
+/soccer/football_team/current_roster./sports/sports_team_roster/player	soccer football team current roster. sports sports team roster player
+/fictional_universe/character_rank/characters_of_this_rank	fictional universe character rank characters of this rank
+/tv/tv_program/subjects	tv tv program subjects
+/education/academic/appointments_fellowships_etc./education/academic_post/institution	education academic appointments fellowships etc. education academic post institution
+/education/academic_institution/visiting_scholars_fellows_etc./education/academic_post/person	education academic institution visiting scholars fellows etc. education academic post person
+/government/governmental_jurisdiction/governing_officials./government/government_position_held/basic_title	government governmental jurisdiction governing officials. government government position held basic title
+/transportation/road/end1./transportation/road_starting_point/location	transportation road end1. transportation road starting point location
+/people/person/education./education/education/major_field_of_study	people person education. education education major field of study
+/american_football/football_team/historical_coaching_staff./american_football/football_historical_coach_position/position	american football football team historical coaching staff. american football football historical coach position position
+/business/board_member/leader_of./organization/leadership/organization	business board member leader of. organization leadership organization
+/base/thoroughbredracing/thoroughbred_racehorse_sex/horses_of_this_sex	base thoroughbredracing thoroughbred racehorse sex horses of this sex
+/award/award_category/disciplines_or_subjects	award award category disciplines or subjects
+/film/actor/dubbing_performances./film/dubbing_performance/character	film actor dubbing performances. film dubbing performance character
+/computer/software/software_genre	computer software software genre
+/spaceflight/space_agency/astronauts	spaceflight space agency astronauts
+/people/appointed_role/appointment./people/appointment/appointee	people appointed role appointment. people appointment appointee
+/baseball/baseball_player/batting_stats./baseball/batting_statistics/season	baseball baseball player batting stats. baseball batting statistics season
+/computer/software/languages_used	computer software languages used
+/people/profession/specializations	people profession specializations
+/business/board_member/leader_of./organization/leadership/role	business board member leader of. organization leadership role
+/ice_hockey/hockey_player/current_team./ice_hockey/hockey_roster_position/position	ice hockey hockey player current team. ice hockey hockey roster position position
+/base/crime/crime/victim_s	base crime crime victim s
+/education/educational_institution/mascot	education educational institution mascot
+/military/military_commander/military_commands./military/military_command/military_conflict	military military commander military commands. military military command military conflict
+/base/wrestling/solo_wrestler_or_team/members	base wrestling solo wrestler or team members
+/government/governmental_body/members./government/government_position_held/office_position_or_title	government governmental body members. government government position held office position or title
+/organization/organization/founders	organization organization founders
+/organization/organization/involved_in_merger./organization/organization_merger/became_organization	organization organization involved in merger. organization organization merger became organization
+/olympics/olympic_athlete/country./olympics/olympic_athlete_affiliation/country	olympics olympic athlete country. olympics olympic athlete affiliation country
+/basketball/basketball_team/historical_roster./basketball/basketball_historical_roster_position/player	basketball basketball team historical roster. basketball basketball historical roster position player
+/user/lindenb/default_domain/scientist/known_for	user lindenb default domain scientist known for
+/base/folklore/mythical_creature/mythology	base folklore mythical creature mythology
+/base/x2010fifaworldcupsouthafrica/world_cup_squad/current_world_cup_squad./base/x2010fifaworldcupsouthafrica/current_world_cup_squad/current_club	base x2010fifaworldcupsouthafrica world cup squad current world cup squad. base x2010fifaworldcupsouthafrica current world cup squad current club
+/base/aareas/schema/administrative_area/capital	base aareas schema administrative area capital
+/organization/organization/leadership./organization/leadership/person	organization organization leadership. organization leadership person
+/business/business_operation/operating_income./measurement_unit/dated_money_value/currency	business business operation operating income. measurement unit dated money value currency
+/sports/sports_championship/events	sports sports championship events
+/travel/transport_terminus/travel_destinations_served./travel/transportation/mode_of_transportation	travel transport terminus travel destinations served. travel transportation mode of transportation
+/media_common/dedicator/dedications./media_common/dedication/work_dedicated	media common dedicator dedications. media common dedication work dedicated
+/sports/sports_position/players./baseball/baseball_roster_position/team	sports sports position players. baseball baseball roster position team
+/tv/tv_actor/guest_roles./tv/tv_guest_role/episodes_appeared_in	tv tv actor guest roles. tv tv guest role episodes appeared in
+/royalty/noble_title/noble_rank	royalty noble title noble rank
+/theater/play/lyricist	theater play lyricist
+/theater/theater_character/portrayed_by./theater/theater_role/actor	theater theater character portrayed by. theater theater role actor
+/dining/cuisine/dishes	dining cuisine dishes
+/cvg/cvg_developer/games_developed	cvg cvg developer games developed
+/tv/tv_character/appeared_in_tv_program./tv/regular_tv_appearance/series	tv tv character appeared in tv program. tv regular tv appearance series
+/cvg/computer_videogame/prequel	cvg computer videogame prequel
+/architecture/architectural_structure_owner/structures_owned./architecture/ownership/structure	architecture architectural structure owner structures owned. architecture ownership structure
+/cvg/game_voice_actor/computer_game_voice_performances./cvg/game_performance/game	cvg game voice actor computer game voice performances. cvg game performance game
+/fictional_universe/fictional_character/place_of_birth	fictional universe fictional character place of birth
+/tv/tv_producer_type/tv_producers_of_this_type./tv/tv_producer_term/producer	tv tv producer type tv producers of this type. tv tv producer term producer
+/medicine/infectious_disease/infectious_agent_type	medicine infectious disease infectious agent type
+/architecture/architect/structures_designed	architecture architect structures designed
+/film/film/film_casting_director	film film film casting director
+/film/film_character/portrayed_in_films./film/performance/actor	film film character portrayed in films. film performance actor
+/sports/sports_position/players./american_football/football_historical_roster_position/player	sports sports position players. american football football historical roster position player
+/tennis/tennis_player/matches_lost./tennis/tennis_match/winner	tennis tennis player matches lost. tennis tennis match winner
+/fictional_universe/fictional_job_title/fictional_characters_with_this_job./fictional_universe/fictional_employment_tenure/employee	fictional universe fictional job title fictional characters with this job. fictional universe fictional employment tenure employee
+/base/popstra/celebrity/wears./base/popstra/fashion_choice/designer	base popstra celebrity wears. base popstra fashion choice designer
+/user/tsegaran/computer/algorithm/family	user tsegaran computer algorithm family
+/soccer/football_player/position_s	soccer football player position s
+/government/governmental_jurisdiction/agencies	government governmental jurisdiction agencies
+/base/rugby/rugby_player/type_of_rugby	base rugby rugby player type of rugby
+/sports/sports_position/players./soccer/football_roster_position/team	sports sports position players. soccer football roster position team
+/people/deceased_person/place_of_burial	people deceased person place of burial
+/base/contractbridge/bridge_tournament/standing./base/contractbridge/bridge_tournament_standings/first_place	base contractbridge bridge tournament standing. base contractbridge bridge tournament standings first place
+/book/author/school_or_movement	book author school or movement
+/base/americancomedy/comedy_genre/comedians_in_this_genre	base americancomedy comedy genre comedians in this genre
+/base/usnationalparks/us_national_park/state	base usnationalparks us national park state
+/cvg/cvg_designer/games_designed	cvg cvg designer games designed
+/location/statistical_region/gdp_nominal_per_capita./measurement_unit/dated_money_value/currency	location statistical region gdp nominal per capita. measurement unit dated money value currency
+/location/hud_county_place/place	location hud county place place
+/celebrities/celebrity/sexual_relationships./celebrities/romantic_relationship/celebrity	celebrities celebrity sexual relationships. celebrities romantic relationship celebrity
+/medicine/disease/treatments	medicine disease treatments
+/people/appointed_role/appointment./people/appointment/appointed_by	people appointed role appointment. people appointment appointed by
+/medicine/symptom/side_effect_of	medicine symptom side effect of
+/film/film/distributors./film/film_film_distributor_relationship/region	film film distributors. film film film distributor relationship region
+/base/yalebase/secret_society_member/belonged_to./base/yalebase/secret_society_membership/society	base yalebase secret society member belonged to. base yalebase secret society membership society
+/film/film_featured_song/performed_by	film film featured song performed by
+/biology/organism_classification/rank	biology organism classification rank
+/comic_books/comic_book_publisher/comic_book_series_published	comic books comic book publisher comic book series published
+/medicine/drug_class/drugs	medicine drug class drugs
+/people/appointer/appointment_made./people/appointment/appointed_role	people appointer appointment made. people appointment appointed role
+/music/genre/parent_genre	music genre parent genre
+/education/educational_institution_campus/educational_institution	education educational institution campus educational institution
+/film/film/personal_appearances./film/personal_film_appearance/type_of_appearance	film film personal appearances. film personal film appearance type of appearance
+/award/award_nominated_work/award_nominations./award/award_nomination/award	award award nominated work award nominations. award award nomination award
+/language/human_language/region	language human language region
+/award/award_category/nominees./award/award_nomination/award_nominee	award award category nominees. award award nomination award nominee
+/religion/deity/deity_of	religion deity deity of
+/sports/sports_position/players./american_football/football_historical_roster_position/position_s	sports sports position players. american football football historical roster position position s
+/government/election/office	government election office
+/visual_art/visual_art_form/artists	visual art visual art form artists
+/film/film/film_set_decoration_by	film film film set decoration by
+/media_common/media_genre/child_genres	media common media genre child genres
+/visual_art/visual_artist/art_forms	visual art visual artist art forms
+/tennis/tennis_player/matches_won./tennis/tennis_match/loser	tennis tennis player matches won. tennis tennis match loser
+/music/genre/subgenre	music genre subgenre
+/biology/animal_breed/place_of_origin	biology animal breed place of origin
+/protected_sites/governing_body_of_protected_sites/protected_sites_governed	protected sites governing body of protected sites protected sites governed
+/government/governmental_body/jurisdiction	government governmental body jurisdiction
+/media_common/media_genre/parent_genre	media common media genre parent genre
+/education/field_of_study/students_majoring./education/education/minor	education field of study students majoring. education education minor
+/medicine/disease/prevention_factors	medicine disease prevention factors
+/american_football/football_player/receiving./american_football/player_receiving_statistics/season	american football football player receiving. american football player receiving statistics season
+/military/rank/used_by_services./military/military_service/military_force	military rank used by services. military military service military force
+/business/employer/employees./business/employment_tenure/title	business employer employees. business employment tenure title
+/broadcast/producer/produces	broadcast producer produces
+/award/award_nominated_work/award_nominations./award/award_nomination/nominated_for	award award nominated work award nominations. award award nomination nominated for
+/media_common/adaptation/adapted_from	media common adaptation adapted from
+/ice_hockey/hockey_team/current_roster./sports/sports_team_roster/position	ice hockey hockey team current roster. sports sports team roster position
+/book/literary_series/author_s	book literary series author s
+/people/cause_of_death/parent_cause_of_death	people cause of death parent cause of death
+/baseball/baseball_team/current_roster./baseball/baseball_roster_position/position	baseball baseball team current roster. baseball baseball roster position position
+/award/long_list_nominee/long_list_nominations./award/long_list_nomination/award	award long list nominee long list nominations. award long list nomination award
+/sports/sports_position/players./baseball/baseball_roster_position/player	sports sports position players. baseball baseball roster position player
+/geography/lake/lake_type	geography lake lake type
+/base/activism/activism_issue/activists	base activism activism issue activists
+/military/military_conflict/commanders./military/military_command/military_commander	military military conflict commanders. military military command military commander
+/theater/theater_genre/plays_in_this_genre	theater theater genre plays in this genre
+/music/concert_tour/artist	music concert tour artist
+/film/film_festival_event/films	film film festival event films
+/sports/multi_event_tournament/sports	sports multi event tournament sports
+/organization/organization/acquired_by./business/acquisition/acquiring_company	organization organization acquired by. business acquisition acquiring company
+/computer/operating_system/developer	computer operating system developer
+/military/military_combatant/military_conflicts./military/military_combatant_group/conflict	military military combatant military conflicts. military military combatant group conflict
+/organization/organization/sectors	organization organization sectors
+/book/written_work/original_language	book written work original language
+/government/governmental_jurisdiction/governing_officials./government/government_position_held/office_holder	government governmental jurisdiction governing officials. government government position held office holder
+/medicine/medical_treatment/used_to_treat	medicine medical treatment used to treat
+/award/ranked_list/ranked_list_items./award/ranking/item	award ranked list ranked list items. award ranking item
+/film/film/featured_film_locations	film film featured film locations
+/broadcast/tv_station/owner	broadcast tv station owner
+/film/actor/film./film/performance/film	film actor film. film performance film
+/computer/software_developer/software	computer software developer software
+/base/nobelprizes/nobel_prize_winner/nobel_honor./base/nobelprizes/nobel_honor/subject_area	base nobelprizes nobel prize winner nobel honor. base nobelprizes nobel honor subject area
+/base/popstra/celebrity/breakup./base/popstra/breakup/participant	base popstra celebrity breakup. base popstra breakup participant
+/government/government_office_category/officeholders./government/government_position_held/appointed_by	government government office category officeholders. government government position held appointed by
+/common/webpage/topic	common webpage topic
+/award/hall_of_fame_inductee/hall_of_fame_inductions./award/hall_of_fame_induction/category	award hall of fame inductee hall of fame inductions. award hall of fame induction category
+/dining/restaurant/cuisine	dining restaurant cuisine
+/time/event/included_in_event	time event included in event
+/sports/pro_athlete/teams./soccer/football_roster_position/team	sports pro athlete teams. soccer football roster position team
+/tv/tv_program/regular_cast./tv/regular_tv_appearance/seasons	tv tv program regular cast. tv regular tv appearance seasons
+/medicine/disease/notable_people_with_this_condition	medicine disease notable people with this condition
+/base/famouspets/pet_owner/pets_owned./base/famouspets/pet_ownership/owner	base famouspets pet owner pets owned. base famouspets pet ownership owner
+/medicine/drug_ingredient/more_specific_ingredient	medicine drug ingredient more specific ingredient
+/government/politician/government_positions_held./government/government_position_held/office_position_or_title	government politician government positions held. government government position held office position or title
+/baseball/baseball_team/league	baseball baseball team league
+/exhibitions/exhibition_sponsor/exhibitions_sponsored./exhibitions/exhibition_run/sponsor	exhibitions exhibition sponsor exhibitions sponsored. exhibitions exhibition run sponsor
+/organization/organization_sector/organizations_in_this_sector	organization organization sector organizations in this sector
+/user/tfmorris/default_domain/signatory/documents_signed	user tfmorris default domain signatory documents signed
+/comic_books/comic_book_series/created_by	comic books comic book series created by
+/tv/tv_program/original_network./tv/tv_network_duration/network	tv tv program original network. tv tv network duration network
+/music/artist/track_contributions./music/track_contribution/role	music artist track contributions. music track contribution role
+/user/alexander/misc/murdered_person/place_murdered	user alexander misc murdered person place murdered
+/location/administrative_division/capital./location/administrative_division_capital_relationship/capital	location administrative division capital. location administrative division capital relationship capital
+/aviation/airport/airlines./aviation/airline_airport_presence/cities_served	aviation airport airlines. aviation airline airport presence cities served
+/government/government_office_category/officeholders./government/government_position_held/legislative_sessions	government government office category officeholders. government government position held legislative sessions
+/business/asset/owners./business/asset_ownership/owner	business asset owners. business asset ownership owner
+/geography/island/island_group	geography island island group
+/film/actor/dubbing_performances./film/dubbing_performance/language	film actor dubbing performances. film dubbing performance language
+/military/military_combatant/force_deployments./military/force_strength/combatant	military military combatant force deployments. military force strength combatant
+/film/film_job/films_with_this_crew_job./film/film_crew_gig/film	film film job films with this crew job. film film crew gig film
+/base/contractbridge/bridge_player/first_place_finish./base/contractbridge/bridge_tournament_standings/second_place	base contractbridge bridge player first place finish. base contractbridge bridge tournament standings second place
+/sports/sports_team/roster./soccer/football_roster_position/player	sports sports team roster. soccer football roster position player
+/astronomy/star_system/planetary_system	astronomy star system planetary system
+/base/fight/crime_type/included_in_crimes	base fight crime type included in crimes
+/award/hall_of_fame_induction_category/inductees./award/hall_of_fame_induction/inductee	award hall of fame induction category inductees. award hall of fame induction inductee
+/organization/role/governors./organization/organization_board_membership/organization	organization role governors. organization organization board membership organization
+/biology/organism_classification/lower_classifications	biology organism classification lower classifications
+/common/annotation_category/annotations./common/webpage/topic	common annotation category annotations. common webpage topic
+/film/person_or_entity_appearing_in_film/films./film/personal_film_appearance/type_of_appearance	film person or entity appearing in film films. film personal film appearance type of appearance
+/film/film/personal_appearances./film/personal_film_appearance/person	film film personal appearances. film personal film appearance person
+/sports/sports_team/location	sports sports team location
+/food/ingredient/cuisine	food ingredient cuisine
+/basketball/basketball_player/team./basketball/basketball_roster_position/team	basketball basketball player team. basketball basketball roster position team
+/film/film/estimated_budget./measurement_unit/dated_money_value/currency	film film estimated budget. measurement unit dated money value currency
+/location/location/containedby	location location containedby
+/food/diet_follower/follows_diet	food diet follower follows diet
+/base/argumentmaps/abstract_moral_dispute/particular_instances	base argumentmaps abstract moral dispute particular instances
+/basketball/basketball_team/historical_roster./sports/sports_team_roster/player	basketball basketball team historical roster. sports sports team roster player
+/organization/organization/organization_type	organization organization organization type
+/american_football/football_player/passing./american_football/player_passing_statistics/team	american football football player passing. american football player passing statistics team
+/music/instrument/variation	music instrument variation
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medalist	olympics olympic participating country medals won. olympics olympic medal honor medalist
+/olympics/olympic_participating_country/medals_won./olympics/olympic_medal_honor/medal	olympics olympic participating country medals won. olympics olympic medal honor medal
+/film/film_format/film_format	film film format film format
+/american_football/football_team/historical_roster./american_football/football_historical_roster_position/position_s	american football football team historical roster. american football football historical roster position position s
+/base/nobelprizes/nobel_subject_area/nobel_awards./base/nobelprizes/nobel_honor/nobel_prize_winner	base nobelprizes nobel subject area nobel awards. base nobelprizes nobel honor nobel prize winner
+/biology/organism/organism_type	biology organism organism type
+/olympics/olympic_participating_country/olympics_participated_in	olympics olympic participating country olympics participated in
+/tv/tv_program/filming_locations	tv tv program filming locations
+/people/person/gender	people person gender
+/film/film/country	film film country
+/base/petbreeds/dog_breed/color	base petbreeds dog breed color
+/architecture/museum/address./location/mailing_address/state_province_region	architecture museum address. location mailing address state province region
+/music/performance_role/track_performances./music/track_contribution/role	music performance role track performances. music track contribution role
+/education/field_of_study/students_majoring./education/education/student	education field of study students majoring. education education student
+/olympics/olympic_games/medals_awarded./olympics/olympic_medal_honor/medalist	olympics olympic games medals awarded. olympics olympic medal honor medalist
+/sports/sports_equipment/sport_used_for	sports sports equipment sport used for
+/business/consumer_product/company./business/company_product_relationship/company	business consumer product company. business company product relationship company
+/base/americancomedy/comedian/comedy_genres	base americancomedy comedian comedy genres
+/american_football/football_team/historical_roster./sports/sports_team_roster/player	american football football team historical roster. sports sports team roster player
+/symbols/name_source/namesakes	symbols name source namesakes
+/american_football/football_coach_position/coaches_holding_this_position./american_football/football_historical_coach_position/team	american football football coach position coaches holding this position. american football football historical coach position team
+/base/petbreeds/dog_breed_group/dog_breeds	base petbreeds dog breed group dog breeds
+/government/political_district/representatives./government/government_position_held/basic_title	government political district representatives. government government position held basic title
+/martial_arts/martial_artist/martial_art	martial arts martial artist martial art
+/music/performance_role/regular_performances./music/group_membership/group	music performance role regular performances. music group membership group
+/aviation/airport/airlines./aviation/airline_airport_presence/airline	aviation airport airlines. aviation airline airport presence airline
+/sports/sports_team/league./sports/sports_league_participation/league	sports sports team league. sports sports league participation league
+/broadcast/radio_station/format	broadcast radio station format
+/internet/website/category	internet website category
+/baseball/baseball_player/current_team./baseball/baseball_roster_position/position	baseball baseball player current team. baseball baseball roster position position
+/film/film/distributors./film/film_film_distributor_relationship/distributor	film film distributors. film film film distributor relationship distributor
+/people/deceased_person/place_of_cremation	people deceased person place of cremation
+/education/school_mascot/school	education school mascot school
+/fictional_universe/fictional_character/employers./fictional_universe/fictional_employment_tenure/title	fictional universe fictional character employers. fictional universe fictional employment tenure title
+/visual_art/artwork/art_genre	visual art artwork art genre
+/education/educational_degree/people_with_this_degree./education/education/institution	education educational degree people with this degree. education education institution
+/base/americancomedy/impersonated_celebrity/impersonated_by	base americancomedy impersonated celebrity impersonated by
+/sports/pro_athlete/teams./baseball/baseball_roster_position/position	sports pro athlete teams. baseball baseball roster position position
+/baseball/baseball_player/lifetime_batting_statistics./baseball/lifetime_batting_statistics/last_statistics_season	baseball baseball player lifetime batting statistics. baseball lifetime batting statistics last statistics season
+/ice_hockey/hockey_player/hockey_position	ice hockey hockey player hockey position
+/olympics/olympic_games/athletes./olympics/olympic_athlete_affiliation/athlete	olympics olympic games athletes. olympics olympic athlete affiliation athlete
+/sports/sports_position/players./basketball/basketball_roster_position/team	sports sports position players. basketball basketball roster position team
+/location/hud_foreclosure_area/estimated_number_of_mortgages./measurement_unit/dated_integer/source	location hud foreclosure area estimated number of mortgages. measurement unit dated integer source
+/base/folklore/mythology/mythical_creatures	base folklore mythology mythical creatures
+/tv/tv_character/appeared_in_tv_program./tv/regular_tv_appearance/actor	tv tv character appeared in tv program. tv regular tv appearance actor
