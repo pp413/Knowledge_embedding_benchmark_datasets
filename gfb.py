@@ -52,13 +52,23 @@ def generate_relation(path):
             fw.write(line + "\t" + line.replace("_", " ").replace("/", " ")[1:] + "\n")
 
 
+def replace(path):
+    
+    files = [('train.tsv', 'train.text'), ('test.tsv', 'test.text'), ('valid.tsv', 'valid.text')]
+    
+    for file_names in files:
+        file_names = [os.path.join(path, x) for x in file_names]
+        with open(file_names[0], 'r', encoding='UTF-8') as fr, open(file_names[1], 'w', encoding='UTF-8') as fw:
+            for line in fr.readlines():
+                line = line.strip().split("\t")
+                fw.write('\t'.join(line) + "\n")
 
 
-generate_entity(args.path)
+# generate_entity(args.path)
 
-generate_relation(args.path)
-
-
+# generate_relation(args.path)
 
 
+
+replace(args.path)
 
