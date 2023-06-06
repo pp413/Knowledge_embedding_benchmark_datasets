@@ -1,18 +1,18 @@
-_instance_hypernym	instance hypernym
-_synset_domain_topic_of	synset domain topic of
-_verb_group	verb group
-_member_of_domain_region	member of domain region
-_synset_domain_region_of	synset domain region of
-_similar_to	similar to
-_member_holonym	member holonym
-_has_part	has part
-_derivationally_related_form	derivationally related form
 _hyponym	hyponym
-_member_meronym	member meronym
-_synset_domain_usage_of	synset domain usage of
-_also_see	also see
-_instance_hyponym	instance hyponym
-_member_of_domain_topic	member of domain topic
-_member_of_domain_usage	member of domain usage
-_part_of	part of
 _hypernym	hypernym
+_synset_domain_usage_of	synset domain usage of
+_similar_to	similar to
+_instance_hypernym	instance hypernym
+_member_of_domain_region	member of domain region
+_derivationally_related_form	derivationally related form
+_synset_domain_topic_of	synset domain topic of
+_instance_hyponym	instance hyponym
+_also_see	also see
+_member_of_domain_topic	member of domain topic
+_has_part	has part
+_part_of	part of
+_synset_domain_region_of	synset domain region of
+_member_of_domain_usage	member of domain usage
+_member_meronym	member meronym
+_verb_group	verb group
+_member_holonym	member holonym

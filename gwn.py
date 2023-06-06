@@ -11,7 +11,7 @@ args = arg.parse_args()
 def generate_entity(path):
 
     files = "wn-entity2text-new.txt"
-    to_files = "ent2txt.txt"
+    to_files = "ent2text.txt"
         
     read = os.path.join(path, files)
     write = os.path.join(path, to_files)
